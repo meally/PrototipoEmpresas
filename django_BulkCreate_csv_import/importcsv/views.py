@@ -38,10 +38,11 @@ class EmployeeUploadView(View):
         ]
         try:
             msg = Producto.objects.bulk_create(objs)
-            returnmsg = {"status_code": 200}
+            template_name = 'employee/success.html'
             print('Importado exitosamente')
         except Exception as e:
             print('Error al importar los productos: ', e)
+            template_name = 'employee/failure.html'
             returnmsg = {"status_code": 500}
 
-        return JsonResponse(returnmsg)
+        return render(request, template_name)

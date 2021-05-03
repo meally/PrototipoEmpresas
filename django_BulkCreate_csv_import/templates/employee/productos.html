@@ -1,3 +1,5 @@
+{% extends 'base.html' %}
+{% block content %}
 <style>
 table {
   font-family: arial, sans-serif;
@@ -17,6 +19,7 @@ tr:nth-child(even) {
 </style>
 
 {% if productos %}
+<a href="/">Regresar</a>
     <table>
         <tr>
             <th>Nombre</th>
@@ -35,6 +38,10 @@ tr:nth-child(even) {
         </tr>
         {% endfor %}
     </table>
+<a href="/">Regresar</a>
 {% else %}
-    <p>No has subido productos aún.</p>
+    <p>No has subido productos aún</p>
+    <a href="/">Regresar</a>
+
 {% endif %}
+{% endblock %}
