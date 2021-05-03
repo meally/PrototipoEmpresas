@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Login{% endblock %}
+{% block content %}
+<h4>Carga el archivo con los productos próximos a vencer en formato CSV</h4>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="productfile">
+    <button type="submit">Upload</button>
+  </form>
+{% endblock %}
