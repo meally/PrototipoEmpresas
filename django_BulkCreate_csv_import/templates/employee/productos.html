@@ -1,0 +1,40 @@
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+{% if productos %}
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Cantidad</th>
+            <th>Fecha Vencimiento</th>
+            <th>Supermercado</th>
+            <th>Direccion</th>
+        </tr>
+        {% for producto in productos %}
+        <tr>
+            <td>{{producto.nombre}}</td>
+            <td>{{producto.cantidad}}</td>
+            <td>{{producto.fecha_vencimiento}}</td>
+            <td>{{producto.supermercado}}</td>
+            <td>{{producto.direccion}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <p>No has subido productos aún.</p>
+{% endif %}

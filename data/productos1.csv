@@ -1,0 +1,1001 @@
+nombre,cantidad,fecha_vencimiento,supermercado,direccion
+Ham - Cooked Italian,100,2021-05-14,Olímpica,Cra 7#037-4
+"Pasta - Tortellini, Fresh",73,2021-05-11,La 14,Calle 231c#347-2
+Wine - Alicanca Vinho Verde,35,2021-05-21,La 14,Cra 4#451b-5
+Croissants Thaw And Serve,51,2021-05-22,Carulla,Calle 888#29-8
+Caviar - Salmon,20,2021-05-08,La 14,Calle 14#1c-7
+Scallops - Live In Shell,100,2021-05-18,Carulla,Cra 790#3d-23
+"Pasta - Shells, Medium, Dry",14,2021-05-14,Surtimax,Cra 2d#8-9
+Ocean Spray - Kiwi Strawberry,45,2021-05-07,Jumbo,Calle 231c#347-2
+Creamers - 10%,36,2021-05-10,Surtimax,Calle 888#29-8
+"Fish - Halibut, Cold Smoked",86,2021-05-19,Olímpica,Cra 1c#8-0
+Appetizer - Crab And Brie,4,2021-05-04,La 14,Cra 7#691-52
+"Wine - White, Chardonnay",88,2021-05-06,Carulla,Cra 2d#8-9
+Coffee Beans - Chocolate,31,2021-05-21,Éxito,Calle 14#1c-7
+Spice - Peppercorn Melange,77,2021-05-15,La 14,Calle 231c#347-2
+Corn Meal,4,2021-05-12,Jumbo,Cra 7#691-52
+Tofu - Soft,17,2021-05-15,Surtimax,Cra 5c#702b-72
+Wine - Cava Aria Estate Brut,81,2021-05-12,Surtimax,Cra 5d#6-8
+Cheese - Shred Cheddar / Mozza,51,2021-05-20,Jumbo,Cra 7#691-52
+"Pasta - Gnocchi, Potato",39,2021-05-23,Éxito,Calle 25#173d-7
+Lidsoupcont Rp12dn,59,2021-05-10,Olímpica,Calle 13#70-05
+Oil - Olive,73,2021-05-13,La 14,Calle 13#70-05
+Rosemary - Fresh,38,2021-05-21,Jumbo,Cra 5c#702b-72
+Bread - Pain Au Liat X12,5,2021-05-14,Éxito,Calle 14#1c-7
+Tomatoes Tear Drop,81,2021-05-08,Olímpica,Cra 0#7d-7
+"Potatoes - Purple, Organic",9,2021-05-17,La 14,Calle 25#173d-7
+"Cheese - Brie,danish",21,2021-05-16,Carulla,Cra 9d#85-82
+Tomatoes - Hot House,51,2021-05-19,La 14,Calle 09#2-6
+Sage Ground Wiberg,3,2021-05-22,Carulla,Calle 09#2-6
+Bandage - Fexible 1x3,49,2021-05-05,Éxito,Calle 25#173d-7
+Milk - 2%,90,2021-05-09,Carulla,Cra 80b#10d-97
+"Lemonade - Strawberry, 591 Ml",6,2021-05-07,Jumbo,Cra 9d#85-82
+Sage - Ground,51,2021-05-24,Surtimax,Cra 790#3d-23
+Sugar - Palm,41,2021-05-11,Éxito,Calle 231c#347-2
+Pear - Packum,50,2021-05-06,Éxito,Cra 790#3d-23
+Muffin Mix - Blueberry,53,2021-05-11,Olímpica,Calle 25#173d-7
+Bread - Italian Corn Meal Poly,81,2021-05-17,Jumbo,Cra 80b#10d-97
+Pepper - Orange,34,2021-05-22,Olímpica,Cra 790#3d-23
+Milk - Buttermilk,40,2021-05-12,Olímpica,Calle 888#29-8
+"Veal - Leg, Provimi - 50 Lb Max",97,2021-05-21,Jumbo,Cra 52d#93a-72
+Truffle Cups - Brown,46,2021-05-05,Carulla,Calle 653a#88c-0
+"Cheese - Mozzarella, Shredded",30,2021-05-09,La 14,Calle 14#1c-7
+Cheese - Cream Cheese,84,2021-05-21,Éxito,Cra 2d#8-9
+Sun - Dried Tomatoes,65,2021-05-15,Surtimax,Calle 888#29-8
+"Rum - White, Gg White",1,2021-05-04,Olímpica,Cra 1c#8-0
+Lettuce - Red Leaf,77,2021-05-20,Carulla,Calle 888#29-8
+Cherries - Frozen,23,2021-05-18,Olímpica,Cra 4#451b-5
+Barramundi,61,2021-05-17,Jumbo,Calle 653a#88c-0
+Towel Dispenser,93,2021-05-24,Surtimax,Cra 80b#10d-97
+"Juice - Apple, 341 Ml",2,2021-05-22,Jumbo,Calle 888#29-8
+Sour Puss - Tangerine,76,2021-05-15,La 14,Cra 80b#10d-97
+Parsley - Dried,20,2021-05-07,Surtimax,Calle 888#29-8
+Steam Pan - Half Size Deep,78,2021-05-15,La 14,Calle 888#29-8
+Sage - Ground,74,2021-05-08,Éxito,Cra 1c#8-0
+"Oil - Shortening,liqud, Fry",97,2021-05-17,Olímpica,Cra 7#037-4
+"Pork - Chop, Frenched",59,2021-05-22,Olímpica,Calle 09#2-6
+Sauce - Hoisin,87,2021-05-13,Jumbo,Calle 25#173d-7
+Tomato Puree,74,2021-05-06,Éxito,Cra 4#451b-5
+Bulgar,94,2021-05-14,Surtimax,Calle 25#173d-7
+Sandwich Wrap,7,2021-05-13,Surtimax,Cra 9d#85-82
+Hold Up Tool Storage Rack,94,2021-05-07,Carulla,Cra 5d#6-8
+Pepper - Roasted Red,65,2021-05-19,Jumbo,Cra 4#451b-5
+Veal - Insides Provini,23,2021-05-12,Éxito,Calle 25#173d-7
+Bacardi Breezer - Tropical,8,2021-05-16,Surtimax,Cra 5c#702b-72
+Wine - Barbera Alba Doc 2001,53,2021-05-04,Jumbo,Calle 09#2-6
+Pastry - Apple Muffins - Mini,68,2021-05-19,Éxito,Cra 1c#8-0
+"Octopus - Baby, Cleaned",50,2021-05-05,Carulla,Cra 5c#702b-72
+Lamb - Shanks,2,2021-05-20,Surtimax,Cra 5d#6-8
+"Glass - Wine, Plastic, Clear 5 Oz",17,2021-05-16,Éxito,Cra 5d#6-8
+Olives - Nicoise,2,2021-05-10,Olímpica,Cra 52d#93a-72
+"Beef - Tongue, Fresh",23,2021-05-21,Jumbo,Cra 80b#10d-97
+Carbonated Water - Blackberry,71,2021-05-22,La 14,Cra 80b#10d-97
+"Shrimp - 16/20, Iqf, Shell On",24,2021-05-08,Carulla,Calle 09#2-6
+Pork - European Side Bacon,41,2021-05-12,La 14,Calle 888#29-8
+Cake - Box Window 10x10x2.5,39,2021-05-12,Éxito,Calle 09#2-6
+Pasta - Fusili Tri - Coloured,89,2021-05-05,Éxito,Calle 25#173d-7
+Coffee - Decafenated,60,2021-05-06,La 14,Calle 653a#88c-0
+Pepper - Red Thai,92,2021-05-14,Olímpica,Cra 0#7d-7
+Lambcasing,99,2021-05-21,Jumbo,Cra 9d#85-82
+"Veal - Inside Round / Top, Lean",25,2021-05-14,Éxito,Calle 653a#88c-0
+Ecolab - Power Fusion,51,2021-05-07,Surtimax,Calle 25#173d-7
+Hog / Sausage Casing - Pork,37,2021-05-21,Éxito,Calle 09#2-6
+Bread - Focaccia Quarter,53,2021-05-08,Olímpica,Calle 09#2-6
+Pork - Suckling Pig,14,2021-05-16,Éxito,Calle 25#173d-7
+Sachet,62,2021-05-06,Éxito,Cra 790#3d-23
+"Artichokes - Knobless, White",48,2021-05-05,Jumbo,Cra 1c#8-0
+Wine - Pinot Noir Stoneleigh,88,2021-05-09,Olímpica,Calle 13#70-05
+Wine - Cotes Du Rhone,3,2021-05-09,Jumbo,Calle 09#2-6
+Lid Coffee Cup 8oz Blk,93,2021-05-16,Carulla,Cra 7#037-4
+Wine - Stoneliegh Sauvignon,19,2021-05-06,La 14,Cra 5d#6-8
+"Coffee - Colombian, Portioned",74,2021-05-04,La 14,Cra 1c#8-0
+Pepper - Orange,25,2021-05-09,Carulla,Cra 9d#85-82
+Star Fruit,2,2021-05-11,Surtimax,Calle 888#29-8
+Lettuce - Frisee,15,2021-05-19,Surtimax,Cra 0#7d-7
+"Asparagus - Green, Fresh",85,2021-05-10,Surtimax,Cra 7#037-4
+Quinoa,43,2021-05-20,Éxito,Cra 80b#10d-97
+"Fish - Scallops, Cold Smoked",72,2021-05-10,Éxito,Cra 7#691-52
+"Cup - 3.5oz, Foam",15,2021-05-13,Olímpica,Calle 09#2-6
+Dc Hikiage Hira Huba,80,2021-05-16,Éxito,Cra 52d#93a-72
+Milk - Homo,97,2021-05-05,Olímpica,Cra 0#7d-7
+Table Cloth 62x114 White,13,2021-05-16,Carulla,Cra 5d#6-8
+Jameson Irish Whiskey,51,2021-05-04,Jumbo,Cra 5c#702b-72
+Veal - Provimi Inside,42,2021-05-04,Olímpica,Cra 80b#10d-97
+Peppercorns - Pink,19,2021-05-22,La 14,Calle 09#2-6
+Cheese - Asiago,58,2021-05-07,Carulla,Cra 0#7d-7
+Currants,9,2021-05-21,Jumbo,Calle 13#70-05
+Bowl 12 Oz - Showcase 92012,14,2021-05-17,La 14,Calle 14#1c-7
+Soup - Campbells - Tomato,54,2021-05-20,Jumbo,Calle 14#1c-7
+Cloves - Whole,99,2021-05-04,Olímpica,Cra 7#691-52
+Honey - Comb,6,2021-05-21,Carulla,Calle 888#29-8
+Kiwi Gold Zespri,84,2021-05-05,Carulla,Cra 7#037-4
+"Chicken - Base, Ultimate",16,2021-05-05,Olímpica,Calle 888#29-8
+"Wine - White, Lindemans Bin 95",28,2021-05-14,Éxito,Cra 0#7d-7
+Mustard - Seed,94,2021-05-15,Jumbo,Calle 14#1c-7
+Shrimp - 150 - 250,38,2021-05-18,Carulla,Cra 5c#702b-72
+"Mop Head - Cotton, 24 Oz",20,2021-05-08,Jumbo,Cra 2d#8-9
+Appetizer - Lobster Phyllo Roll,56,2021-05-18,La 14,Cra 7#691-52
+"Wine - Harrow Estates, Vidal",59,2021-05-23,Jumbo,Calle 25#173d-7
+Wine - Two Oceans Cabernet,77,2021-05-15,Olímpica,Cra 9d#85-82
+Veal - Provimi Inside,50,2021-05-05,La 14,Cra 7#691-52
+Goulash Seasoning,30,2021-05-13,Olímpica,Calle 231c#347-2
+Ice Cream - Fudge Bars,90,2021-05-05,Jumbo,Calle 09#2-6
+Anchovy Paste - 56 G Tube,20,2021-05-22,Carulla,Calle 888#29-8
+Versatainer Nc - 888,75,2021-05-13,Jumbo,Calle 231c#347-2
+"Olives - Black, Pitted",52,2021-05-15,La 14,Cra 7#037-4
+Beets - Golden,9,2021-05-21,Surtimax,Cra 5c#702b-72
+"Pork - Ham, Virginia",38,2021-05-20,La 14,Calle 14#1c-7
+"Pasta - Rotini, Dry",43,2021-05-18,Jumbo,Calle 888#29-8
+Emulsifier,100,2021-05-10,Surtimax,Cra 790#3d-23
+Longos - Chicken Caeser Salad,92,2021-05-11,Olímpica,Cra 0#7d-7
+Wine - Lamancha Do Crianza,85,2021-05-23,Olímpica,Calle 423#39-82
+"Stock - Veal, White",23,2021-05-14,Jumbo,Cra 0#7d-7
+Edible Flower - Mixed,29,2021-05-24,Éxito,Calle 09#2-6
+Lychee,76,2021-05-05,Olímpica,Cra 5c#702b-72
+Wine - Chateau Aqueria Tavel,95,2021-05-21,La 14,Cra 2d#8-9
+Apricots Fresh,71,2021-05-09,Éxito,Cra 7#691-52
+Pastry - Cheese Baked Scones,79,2021-05-23,Jumbo,Cra 7#037-4
+Scotch - Queen Anne,35,2021-05-13,La 14,Calle 423#39-82
+"Shrimp - 16/20, Iqf, Shell On",34,2021-05-15,Surtimax,Calle 888#29-8
+Chutney Sauce - Mango,16,2021-05-09,Carulla,Calle 231c#347-2
+Wine - Crozes Hermitage E.,43,2021-05-10,Éxito,Cra 2d#8-9
+Kohlrabi,47,2021-05-10,Surtimax,Cra 1c#8-0
+Macaroons - Two Bite Choc,26,2021-05-16,Carulla,Cra 5c#702b-72
+"Pork - Chop, Frenched",46,2021-05-13,Éxito,Calle 14#1c-7
+Boogies,100,2021-05-19,Jumbo,Calle 653a#88c-0
+"Chicken - Leg, Fresh",20,2021-05-07,Éxito,Cra 80b#10d-97
+Aromat Spice / Seasoning,76,2021-05-08,La 14,Calle 14#1c-7
+Cheese - Parmesan Cubes,83,2021-05-20,Éxito,Calle 888#29-8
+Magnotta - Bel Paese White,17,2021-05-13,Jumbo,Calle 14#1c-7
+Pancetta,94,2021-05-20,La 14,Calle 231c#347-2
+Bread - Sour Batard,96,2021-05-12,Carulla,Cra 52d#93a-72
+"Doilies - 8, Paper",70,2021-05-19,Olímpica,Calle 09#2-6
+Broom - Push,91,2021-05-10,Éxito,Cra 52d#93a-72
+Cranberries - Frozen,80,2021-05-12,Jumbo,Calle 09#2-6
+Chicken Giblets,39,2021-05-23,Olímpica,Cra 790#3d-23
+Asparagus - Frozen,77,2021-05-15,La 14,Cra 4#451b-5
+Banana,93,2021-05-18,La 14,Cra 5d#6-8
+Beef - Top Butt,36,2021-05-18,Surtimax,Cra 4#451b-5
+Ecolab - Lime - A - Way 4/4 L,5,2021-05-04,Carulla,Cra 80b#10d-97
+Wine - Peller Estates Late,39,2021-05-07,La 14,Cra 52d#93a-72
+Oil - Safflower,21,2021-05-05,Éxito,Calle 653a#88c-0
+Soup - Campbells Mushroom,48,2021-05-23,Olímpica,Cra 0#7d-7
+Beef - Rib Eye Aaa,53,2021-05-12,Carulla,Cra 80b#10d-97
+"Liqueur Banana, Ramazzotti",100,2021-05-23,Carulla,Calle 09#2-6
+Currants,87,2021-05-14,La 14,Calle 888#29-8
+Coffee Decaf Colombian,97,2021-05-18,Olímpica,Cra 5d#6-8
+Soup - Campbells Pasta Fagioli,78,2021-05-24,Surtimax,Cra 2d#8-9
+Sobe - Orange Carrot,77,2021-05-11,Olímpica,Cra 5c#702b-72
+Icecream - Dibs,24,2021-05-23,Surtimax,Calle 09#2-6
+Wine - Bouchard La Vignee Pinot,67,2021-05-14,Surtimax,Cra 4#451b-5
+Lamb - Ground,43,2021-05-09,La 14,Cra 9d#85-82
+Puree - Pear,94,2021-05-10,Carulla,Cra 5c#702b-72
+Dried Figs,34,2021-05-16,Carulla,Cra 2d#8-9
+Beer - Paulaner Hefeweisse,46,2021-05-07,Surtimax,Cra 7#691-52
+"Sauce - Black Current, Dry Mix",43,2021-05-09,Surtimax,Cra 5d#6-8
+Wine - Black Tower Qr,10,2021-05-24,Surtimax,Cra 7#691-52
+Pears - Bosc,46,2021-05-10,Jumbo,Calle 888#29-8
+Contreau,52,2021-05-10,Carulla,Cra 1c#8-0
+Cheese - Shred Cheddar / Mozza,65,2021-05-19,La 14,Cra 7#691-52
+Dr. Pepper - 355ml,40,2021-05-06,Jumbo,Calle 13#70-05
+Dried Cranberries,44,2021-05-05,La 14,Calle 25#173d-7
+Bread - Onion Focaccia,55,2021-05-04,Surtimax,Calle 423#39-82
+Cream - 10%,32,2021-05-16,Jumbo,Cra 52d#93a-72
+"Lemonade - Mandarin, 591 Ml",45,2021-05-24,Surtimax,Cra 7#037-4
+Soup - Cream Of Broccoli,50,2021-05-20,Carulla,Calle 09#2-6
+Duck - Whole,40,2021-05-17,Olímpica,Calle 653a#88c-0
+"Cheese - Mozzarella, Shredded",38,2021-05-24,La 14,Calle 25#173d-7
+Jagermeister,99,2021-05-08,Éxito,Calle 13#70-05
+Tofu - Firm,23,2021-05-19,Olímpica,Cra 7#691-52
+"Lamb - Leg, Boneless",56,2021-05-09,Olímpica,Cra 1c#8-0
+"Beans - Black Bean, Canned",73,2021-05-19,Carulla,Calle 14#1c-7
+Tequila - Sauza Silver,56,2021-05-04,Éxito,Cra 5c#702b-72
+Huck Towels White,64,2021-05-14,Carulla,Calle 231c#347-2
+Spring Roll Wrappers,83,2021-05-09,Carulla,Calle 653a#88c-0
+"Fish - Scallops, Cold Smoked",83,2021-05-22,Éxito,Cra 790#3d-23
+Taro Root,65,2021-05-12,Surtimax,Cra 4#451b-5
+"Napkin - Dinner, White",42,2021-05-15,Surtimax,Cra 52d#93a-72
+Lamb Rack Frenched Australian,83,2021-05-06,Jumbo,Cra 80b#10d-97
+"Tea - Darjeeling, Azzura",36,2021-05-23,Éxito,Cra 9d#85-82
+Ecolab Digiclean Mild Fm,69,2021-05-21,Jumbo,Cra 52d#93a-72
+Wine - Prosecco Valdobiaddene,4,2021-05-04,Éxito,Calle 888#29-8
+Pork - Ham Hocks - Smoked,76,2021-05-20,Jumbo,Cra 2d#8-9
+Zucchini - Green,62,2021-05-09,Olímpica,Calle 09#2-6
+Wine - Vineland Estate Semi - Dry,82,2021-05-21,Jumbo,Calle 423#39-82
+Veal - Heart,83,2021-05-04,Carulla,Cra 7#037-4
+Bread Base - Italian,6,2021-05-08,Surtimax,Calle 423#39-82
+Container - Hngd Cll Blk 7x7x3,27,2021-05-10,Jumbo,Calle 231c#347-2
+Shortbread - Cookie Crumbs,71,2021-05-05,Carulla,Cra 5c#702b-72
+Energy Drink Red Bull,41,2021-05-17,Surtimax,Cra 52d#93a-72
+Salmon - Fillets,5,2021-05-11,Éxito,Cra 790#3d-23
+"Juice - Orange, Concentrate",26,2021-05-20,Éxito,Cra 4#451b-5
+Lotus Leaves,82,2021-05-08,La 14,Cra 4#451b-5
+Wine - Stoneliegh Sauvignon,95,2021-05-05,Carulla,Cra 2d#8-9
+Beef - Montreal Smoked Brisket,91,2021-05-15,Éxito,Cra 1c#8-0
+Muffin Mix - Morning Glory,69,2021-05-11,Olímpica,Cra 7#691-52
+Island Oasis - Magarita Mix,5,2021-05-10,Éxito,Cra 7#037-4
+"Beef - Ox Tongue, Pickled",84,2021-05-22,Carulla,Calle 888#29-8
+"Juice - Pineapple, 48 Oz",80,2021-05-24,Olímpica,Cra 5c#702b-72
+"Veal - Leg, Provimi - 50 Lb Max",64,2021-05-10,Éxito,Calle 14#1c-7
+Buffalo - Striploin,96,2021-05-04,Olímpica,Calle 09#2-6
+Parsley - Dried,92,2021-05-10,La 14,Calle 423#39-82
+"Tart Shells - Sweet, 2",59,2021-05-04,Jumbo,Cra 80b#10d-97
+Pop Shoppe Cream Soda,99,2021-05-20,Carulla,Calle 653a#88c-0
+Greens Mustard,21,2021-05-21,Carulla,Cra 4#451b-5
+"Coke - Classic, 355 Ml",67,2021-05-15,Surtimax,Cra 2d#8-9
+Syrup - Monin - Passion Fruit,84,2021-05-07,Éxito,Calle 423#39-82
+Cauliflower,58,2021-05-20,Olímpica,Calle 888#29-8
+Cheese - Comtomme,36,2021-05-12,Surtimax,Cra 52d#93a-72
+"Beans - Kidney, Canned",84,2021-05-14,Jumbo,Cra 7#691-52
+Cheese - Mascarpone,86,2021-05-07,Surtimax,Calle 14#1c-7
+Bagelers - Cinn / Brown Sugar,97,2021-05-08,Éxito,Calle 653a#88c-0
+Piping Jelly - All Colours,5,2021-05-14,La 14,Calle 25#173d-7
+Cod - Fillets,71,2021-05-10,Olímpica,Calle 13#70-05
+Sobe - Liz Blizz,9,2021-05-17,Surtimax,Cra 790#3d-23
+Muffin Batt - Blueberry Passion,59,2021-05-18,Carulla,Cra 2d#8-9
+"Yogurt - Blueberry, 175 Gr",79,2021-05-11,Surtimax,Cra 7#037-4
+Swiss Chard,10,2021-05-04,Carulla,Cra 1c#8-0
+Potatoes - Peeled,75,2021-05-11,Jumbo,Calle 13#70-05
+Sugar - Palm,4,2021-05-13,Carulla,Cra 80b#10d-97
+Marjoram - Fresh,62,2021-05-13,La 14,Cra 9d#85-82
+Soup - Campbells Beef Noodle,42,2021-05-05,La 14,Cra 52d#93a-72
+Turkey - Oven Roast Breast,74,2021-05-04,Carulla,Calle 653a#88c-0
+Pur Source,45,2021-05-23,Jumbo,Cra 80b#10d-97
+Star Fruit,64,2021-05-22,Olímpica,Calle 423#39-82
+Pork - Side Ribs,46,2021-05-06,Carulla,Calle 14#1c-7
+"Tart Shells - Sweet, 2",85,2021-05-23,Jumbo,Cra 80b#10d-97
+Pasta - Angel Hair,20,2021-05-13,Olímpica,Cra 5c#702b-72
+Squash - Acorn,80,2021-05-22,Éxito,Calle 13#70-05
+Mangostein,69,2021-05-22,Jumbo,Cra 5d#6-8
+Beef - Tenderloin - Aa,7,2021-05-17,Éxito,Cra 9d#85-82
+"Pork - Tenderloin, Fresh",70,2021-05-18,Éxito,Calle 25#173d-7
+"Beans - Kidney, Red Dry",96,2021-05-18,Carulla,Calle 13#70-05
+"Wine - Red, Cabernet Sauvignon",51,2021-05-22,Éxito,Cra 52d#93a-72
+Chinese Foods - Thick Noodles,4,2021-05-17,Éxito,Calle 09#2-6
+Lettuce - Sea / Sea Asparagus,74,2021-05-04,La 14,Calle 13#70-05
+Tomato Puree,67,2021-05-12,La 14,Cra 9d#85-82
+Pastry - French Mini Assorted,63,2021-05-22,Olímpica,Cra 80b#10d-97
+Sauce - Mint,24,2021-05-19,Jumbo,Cra 5c#702b-72
+Buttons,83,2021-05-24,Carulla,Calle 653a#88c-0
+Squid U5 - Thailand,21,2021-05-10,Surtimax,Calle 231c#347-2
+Fib N9 - Prague Powder,35,2021-05-07,Surtimax,Cra 7#037-4
+Apples - Sliced / Wedge,92,2021-05-19,Éxito,Calle 231c#347-2
+Beer - Maudite,81,2021-05-11,Éxito,Calle 14#1c-7
+"Cheese - Cheddar, Old White",11,2021-05-18,Éxito,Calle 423#39-82
+Chinese Foods - Cantonese,4,2021-05-17,Éxito,Cra 0#7d-7
+"Asparagus - White, Fresh",81,2021-05-19,La 14,Cra 52d#93a-72
+Sage - Rubbed,37,2021-05-06,Carulla,Calle 653a#88c-0
+"Salmon - Whole, 4 - 6 Pounds",93,2021-05-21,Jumbo,Cra 7#691-52
+Buffalo - Tenderloin,35,2021-05-06,La 14,Calle 653a#88c-0
+Salt - Sea,92,2021-05-14,Olímpica,Calle 14#1c-7
+Capers - Pickled,58,2021-05-15,Carulla,Calle 423#39-82
+Nantucket Apple Juice,78,2021-05-04,Éxito,Calle 653a#88c-0
+"Gingerale - Schweppes, 355 Ml",74,2021-05-11,Carulla,Cra 80b#10d-97
+Wine - Toasted Head,87,2021-05-14,Surtimax,Cra 9d#85-82
+"Chicken - Leg, Boneless",34,2021-05-08,La 14,Cra 790#3d-23
+The Pop Shoppe - Lime Rickey,61,2021-05-17,Carulla,Cra 5c#702b-72
+Chocolate Bar - Reese Pieces,36,2021-05-05,Carulla,Cra 4#451b-5
+Pastry - Lemon Danish - Mini,47,2021-05-15,Éxito,Cra 80b#10d-97
+Nacho Chips,21,2021-05-14,Éxito,Cra 7#037-4
+"Quail - Whole, Bone - In",82,2021-05-12,La 14,Cra 5d#6-8
+Cheese - Augre Des Champs,61,2021-05-24,Jumbo,Cra 7#691-52
+Sprouts - Bean,22,2021-05-06,Éxito,Cra 80b#10d-97
+Filter - Coffee,95,2021-05-05,La 14,Calle 14#1c-7
+Bagelers - Cinn / Brown Sugar,89,2021-05-19,Éxito,Cra 4#451b-5
+Bread - Dark Rye,87,2021-05-20,Éxito,Calle 231c#347-2
+Juice - Lime,92,2021-05-24,Olímpica,Cra 7#037-4
+"Mustard - Dry, Powder",70,2021-05-24,Surtimax,Cra 2d#8-9
+Chips Potato Swt Chilli Sour,21,2021-05-21,La 14,Cra 0#7d-7
+Soup Bowl Clear 8oz92008,56,2021-05-08,Éxito,Calle 423#39-82
+Veal - Insides Provini,28,2021-05-14,Éxito,Calle 09#2-6
+"Chocolate - Pistoles, Lactee, Milk",32,2021-05-09,Éxito,Calle 888#29-8
+Peas - Frozen,36,2021-05-14,La 14,Cra 5d#6-8
+Pepper - Cayenne,99,2021-05-11,Carulla,Cra 7#037-4
+Calypso - Strawberry Lemonade,60,2021-05-23,Carulla,Calle 423#39-82
+"Tart Shells - Sweet, 4",50,2021-05-09,La 14,Calle 14#1c-7
+Langers - Mango Nectar,63,2021-05-14,Surtimax,Calle 14#1c-7
+Wild Boar - Tenderloin,79,2021-05-20,La 14,Cra 7#037-4
+Vaccum Bag 10x13,94,2021-05-07,Éxito,Calle 14#1c-7
+Barley - Pearl,79,2021-05-15,Éxito,Calle 14#1c-7
+Dish Towel,28,2021-05-15,La 14,Cra 52d#93a-72
+Pate - Cognac,88,2021-05-20,Carulla,Cra 7#691-52
+"Tomatoes - Cherry, Yellow",92,2021-05-04,Éxito,Cra 0#7d-7
+Sauce - Salsa,7,2021-05-14,Olímpica,Calle 653a#88c-0
+Venison - Racks Frenched,90,2021-05-14,Éxito,Calle 423#39-82
+"Soup - Campbells, Beef Barley",22,2021-05-11,Éxito,Calle 14#1c-7
+Pastry - Apple Large,79,2021-05-05,Carulla,Calle 25#173d-7
+"Plate - Foam, Bread And Butter",95,2021-05-18,Jumbo,Cra 5c#702b-72
+Squash - Pepper,86,2021-05-21,Surtimax,Calle 888#29-8
+Hipnotiq Liquor,10,2021-05-17,Jumbo,Cra 1c#8-0
+Wine - Stoneliegh Sauvignon,92,2021-05-16,Jumbo,Cra 7#691-52
+"C - Plus, Orange",34,2021-05-13,Éxito,Cra 4#451b-5
+Wine - Muscadet Sur Lie,59,2021-05-05,Surtimax,Cra 790#3d-23
+Wine - Two Oceans Sauvignon,17,2021-05-08,La 14,Calle 653a#88c-0
+Mcgillicuddy Vanilla Schnap,49,2021-05-11,Olímpica,Cra 9d#85-82
+Apple - Granny Smith,76,2021-05-08,Surtimax,Calle 25#173d-7
+Bread Foccacia Whole,2,2021-05-17,Éxito,Calle 653a#88c-0
+Remy Red,21,2021-05-04,Éxito,Cra 7#691-52
+Triple Sec - Mcguinness,60,2021-05-09,Éxito,Calle 14#1c-7
+"Pepper - Black, Whole",5,2021-05-06,Surtimax,Calle 888#29-8
+Lid Coffee Cup 8oz Blk,11,2021-05-13,Surtimax,Calle 09#2-6
+Lobster - Cooked,3,2021-05-14,Jumbo,Calle 13#70-05
+"Jam - Blackberry, 20 Ml Jar",24,2021-05-17,Éxito,Cra 80b#10d-97
+Beer - Moosehead,75,2021-05-19,Carulla,Calle 231c#347-2
+Wine - Shiraz Wolf Blass Premium,75,2021-05-09,Jumbo,Cra 7#037-4
+Bread Crumbs - Japanese Style,16,2021-05-13,Jumbo,Calle 14#1c-7
+Hersey Shakes,45,2021-05-08,Jumbo,Calle 653a#88c-0
+"Arctic Char - Fresh, Whole",2,2021-05-09,Éxito,Cra 5d#6-8
+Pails With Lids,54,2021-05-11,Jumbo,Calle 14#1c-7
+Longos - Grilled Veg Sandwiches,80,2021-05-22,Olímpica,Cra 5c#702b-72
+Tilapia - Fillets,3,2021-05-09,Jumbo,Calle 14#1c-7
+Relish,52,2021-05-04,La 14,Calle 14#1c-7
+Meldea Green Tea Liquor,36,2021-05-21,Surtimax,Cra 9d#85-82
+Soup - Campbells Beef Stew,67,2021-05-05,La 14,Calle 09#2-6
+Nantucket - Pomegranate Pear,80,2021-05-13,La 14,Calle 888#29-8
+Orange - Blood,92,2021-05-13,Carulla,Cra 9d#85-82
+"Beans - Black Bean, Canned",2,2021-05-22,Olímpica,Calle 231c#347-2
+Cup - 8oz Coffee Perforated,15,2021-05-09,Jumbo,Cra 0#7d-7
+Snapple - Mango Maddness,51,2021-05-17,La 14,Cra 1c#8-0
+Lychee - Canned,57,2021-05-13,La 14,Calle 888#29-8
+Paste - Black Olive,7,2021-05-21,Jumbo,Cra 52d#93a-72
+Rice Paper,82,2021-05-15,Jumbo,Calle 653a#88c-0
+"Wine - Bourgogne 2002, La",61,2021-05-16,La 14,Calle 09#2-6
+Rice - Jasmine Sented,37,2021-05-13,Surtimax,Calle 231c#347-2
+Soup - Campbells Beef Noodle,21,2021-05-15,Olímpica,Cra 5d#6-8
+Grapefruit - White,76,2021-05-06,Olímpica,Calle 13#70-05
+Pie Shell - 5,46,2021-05-09,Éxito,Cra 9d#85-82
+Miso Paste White,19,2021-05-04,Olímpica,Calle 09#2-6
+Island Oasis - Pina Colada,63,2021-05-12,Jumbo,Cra 5c#702b-72
+Lettuce - Romaine,19,2021-05-10,Jumbo,Cra 5d#6-8
+Muffin Batt - Carrot Spice,26,2021-05-14,La 14,Cra 790#3d-23
+Wine - Fume Blanc Fetzer,17,2021-05-06,Surtimax,Cra 5c#702b-72
+Milk - Skim,96,2021-05-12,Carulla,Calle 09#2-6
+Container - Foam Dixie 12 Oz,56,2021-05-10,Carulla,Calle 25#173d-7
+Kippers - Smoked,74,2021-05-19,Surtimax,Cra 80b#10d-97
+Jolt Cola - Red Eye,41,2021-05-15,Éxito,Calle 653a#88c-0
+Flour - Rye,77,2021-05-12,Carulla,Calle 653a#88c-0
+Wine - Conde De Valdemar,47,2021-05-16,Éxito,Calle 888#29-8
+Wine - Taylors Reserve,92,2021-05-08,Jumbo,Cra 80b#10d-97
+Fish - Bones,56,2021-05-06,Carulla,Calle 09#2-6
+"Pork - Ham, Virginia",1,2021-05-24,Olímpica,Calle 25#173d-7
+Strawberries,86,2021-05-19,Carulla,Calle 25#173d-7
+Calaloo,99,2021-05-09,Surtimax,Cra 5c#702b-72
+"Pasta - Shells, Medium, Dry",18,2021-05-09,Surtimax,Cra 1c#8-0
+Beans - Green,59,2021-05-21,Jumbo,Cra 0#7d-7
+Clams - Canned,36,2021-05-14,La 14,Cra 9d#85-82
+"Chicken - Leg, Fresh",81,2021-05-14,La 14,Cra 790#3d-23
+Bread Foccacia Whole,21,2021-05-23,Carulla,Cra 790#3d-23
+Water - San Pellegrino,100,2021-05-20,Jumbo,Calle 09#2-6
+Island Oasis - Pina Colada,5,2021-05-18,Éxito,Calle 25#173d-7
+Icecream - Dstk Super Cone,61,2021-05-19,Carulla,Calle 09#2-6
+Bread - Sour Sticks With Onion,60,2021-05-11,Olímpica,Cra 4#451b-5
+Beef - Ox Tongue,46,2021-05-11,Olímpica,Cra 1c#8-0
+Chicken - Wieners,41,2021-05-16,La 14,Cra 1c#8-0
+"Fish - Scallops, Cold Smoked",59,2021-05-22,Carulla,Cra 5d#6-8
+Lobster - Tail 6 Oz,76,2021-05-11,La 14,Calle 09#2-6
+"Syrup - Monin, Amaretta",13,2021-05-16,Carulla,Cra 5c#702b-72
+"Carrots - Purple, Organic",63,2021-05-19,Carulla,Cra 9d#85-82
+Broom - Push,93,2021-05-23,Éxito,Cra 4#451b-5
+Beets - Pickled,57,2021-05-15,Olímpica,Cra 790#3d-23
+Anchovy In Oil,36,2021-05-13,Éxito,Cra 7#037-4
+Potatoes - Mini Red,19,2021-05-11,Jumbo,Cra 5c#702b-72
+Beef Wellington,35,2021-05-05,Éxito,Calle 231c#347-2
+Carbonated Water - Strawberry,27,2021-05-17,Éxito,Calle 09#2-6
+Chef Hat 25cm,64,2021-05-06,Surtimax,Cra 80b#10d-97
+Crackers - Trio,63,2021-05-08,La 14,Cra 5c#702b-72
+Soup - Campbells Chili,69,2021-05-04,Éxito,Cra 2d#8-9
+"Pesto - Primerba, Paste",79,2021-05-12,La 14,Calle 14#1c-7
+Cattail Hearts,42,2021-05-14,Jumbo,Cra 5c#702b-72
+Tilapia - Fillets,18,2021-05-16,Olímpica,Cra 0#7d-7
+Steel Wool,53,2021-05-05,Surtimax,Cra 9d#85-82
+Beef - Diced,80,2021-05-08,La 14,Cra 0#7d-7
+Cake - Miini Cheesecake Cherry,79,2021-05-20,La 14,Cra 9d#85-82
+"Crab - Back Fin Meat, Canned",53,2021-05-21,Surtimax,Cra 4#451b-5
+Clam - Cherrystone,84,2021-05-10,Jumbo,Cra 7#691-52
+"Turkey - Whole, Fresh",87,2021-05-13,La 14,Calle 888#29-8
+Sugar - Fine,98,2021-05-15,Olímpica,Cra 790#3d-23
+"Yogurt - Peach, 175 Gr",84,2021-05-15,Carulla,Calle 423#39-82
+Calvados - Boulard,45,2021-05-08,Carulla,Cra 52d#93a-72
+Juice - Apple 284ml,81,2021-05-16,La 14,Cra 9d#85-82
+Soup Campbells - Italian Wedding,35,2021-05-11,La 14,Cra 4#451b-5
+Milk - 1%,72,2021-05-17,Jumbo,Calle 423#39-82
+Alize Gold Passion,75,2021-05-20,Olímpica,Calle 653a#88c-0
+"Beef - Chuck, Boneless",13,2021-05-16,Surtimax,Calle 423#39-82
+"Crush - Grape, 355 Ml",92,2021-05-15,Carulla,Cra 5d#6-8
+Appetizer - Mushroom Tart,69,2021-05-11,La 14,Cra 7#691-52
+"Wine - Red, Mosaic Zweigelt",79,2021-05-06,Jumbo,Cra 5c#702b-72
+"Mop Head - Cotton, 24 Oz",35,2021-05-19,Olímpica,Calle 14#1c-7
+Flounder - Fresh,56,2021-05-06,Carulla,Cra 9d#85-82
+Spinach - Baby,34,2021-05-16,Olímpica,Cra 9d#85-82
+"Beer - Alexander Kieths, Pale Ale",81,2021-05-24,La 14,Calle 13#70-05
+"Chocolate - Milk, Callets",27,2021-05-06,La 14,Cra 4#451b-5
+Cheese - Victor Et Berthold,41,2021-05-08,Surtimax,Calle 13#70-05
+Pepper - Cayenne,61,2021-05-24,Éxito,Calle 423#39-82
+"Bread - Rolls, Rye",100,2021-05-04,Carulla,Calle 14#1c-7
+Pork - Caul Fat,51,2021-05-19,Éxito,Cra 5c#702b-72
+Tomatillo,24,2021-05-20,Olímpica,Cra 5c#702b-72
+"Doilies - 5, Paper",73,2021-05-04,La 14,Cra 5d#6-8
+Sauce - Fish 25 Ozf Bottle,10,2021-05-20,Carulla,Cra 790#3d-23
+Bananas,89,2021-05-24,Éxito,Calle 231c#347-2
+Yoplait Drink,89,2021-05-11,Jumbo,Cra 5c#702b-72
+"Sugar - Sweet N Low, Individual",79,2021-05-23,Olímpica,Cra 7#691-52
+Sprouts - Pea,18,2021-05-04,Éxito,Calle 231c#347-2
+"Chocolate - Semi Sweet, Calets",11,2021-05-23,La 14,Calle 888#29-8
+"Napkin - Beverge, White 2 - Ply",92,2021-05-20,Jumbo,Cra 4#451b-5
+Sansho Powder,68,2021-05-08,Éxito,Calle 13#70-05
+Flounder - Fresh,56,2021-05-16,Éxito,Cra 790#3d-23
+Ostrich - Prime Cut,52,2021-05-12,Olímpica,Calle 423#39-82
+"Chicken - Leg, Fresh",60,2021-05-14,Surtimax,Calle 13#70-05
+Truffle Cups Green,37,2021-05-15,La 14,Cra 7#691-52
+Ham - Proscuitto,2,2021-05-14,Surtimax,Cra 1c#8-0
+"Pepper - Black, Crushed",6,2021-05-16,Carulla,Cra 2d#8-9
+"Fish - Atlantic Salmon, Cold",76,2021-05-13,Surtimax,Calle 13#70-05
+Juice - Apple Cider,73,2021-05-14,Carulla,Calle 231c#347-2
+Wine - Piper Heidsieck Brut,22,2021-05-04,Éxito,Cra 52d#93a-72
+"Turkey - Breast, Boneless Sk On",73,2021-05-17,Olímpica,Cra 5d#6-8
+French Kiss Vanilla,45,2021-05-12,Jumbo,Calle 888#29-8
+Currants,19,2021-05-05,La 14,Calle 09#2-6
+Sauce - Plum,52,2021-05-21,Surtimax,Calle 25#173d-7
+Chocolate - Compound Coating,11,2021-05-12,Olímpica,Cra 7#691-52
+Chip - Potato Dill Pickle,10,2021-05-06,Olímpica,Calle 25#173d-7
+"Appetizer - Spring Roll, Veg",44,2021-05-06,La 14,Calle 423#39-82
+Steel Wool S.o.s,56,2021-05-12,La 14,Calle 231c#347-2
+Icecream - Dstk Strw Chseck,66,2021-05-11,Jumbo,Cra 4#451b-5
+Yams,30,2021-05-23,Éxito,Cra 790#3d-23
+Truffle Shells - Semi - Sweet,38,2021-05-19,La 14,Cra 1c#8-0
+"Pepper - Chillies, Crushed",53,2021-05-11,La 14,Calle 09#2-6
+Pepper - Chili Powder,28,2021-05-04,Carulla,Calle 653a#88c-0
+Table Cloth 62x120 White,91,2021-05-23,Surtimax,Cra 7#037-4
+"Pasta - Bauletti, Chicken White",57,2021-05-17,La 14,Calle 13#70-05
+"Turkey - Breast, Double",82,2021-05-18,Carulla,Cra 5d#6-8
+"Mushroom - Morels, Dry",92,2021-05-18,La 14,Cra 52d#93a-72
+Corn Shoots,32,2021-05-14,Surtimax,Calle 13#70-05
+Foil - 4oz Custard Cup,8,2021-05-20,Éxito,Cra 5d#6-8
+"Shrimp - Baby, Cold Water",60,2021-05-11,Éxito,Calle 14#1c-7
+Milk - 1%,91,2021-05-09,Carulla,Calle 653a#88c-0
+Cheese - Parmigiano Reggiano,10,2021-05-24,Jumbo,Calle 13#70-05
+Foil - Round Foil,100,2021-05-12,La 14,Cra 5d#6-8
+Appetizer - Shrimp Puff,91,2021-05-16,Carulla,Cra 0#7d-7
+Bread - Onion Focaccia,64,2021-05-04,La 14,Cra 80b#10d-97
+Cheese - Comtomme,22,2021-05-04,Jumbo,Calle 09#2-6
+Muffin - Banana Nut Individual,73,2021-05-17,Surtimax,Cra 7#037-4
+Muffin Batt - Carrot Spice,93,2021-05-09,Surtimax,Calle 14#1c-7
+Vaccum Bag - 14x20,36,2021-05-06,Éxito,Cra 9d#85-82
+Steamers White,6,2021-05-24,Éxito,Cra 4#451b-5
+Pear - Packum,43,2021-05-20,Carulla,Cra 52d#93a-72
+Sauce - Soy Low Sodium - 3.87l,83,2021-05-20,Carulla,Calle 231c#347-2
+Bread Sour Rolls,65,2021-05-13,Carulla,Calle 13#70-05
+Table Cloth 62x120 Colour,89,2021-05-17,Carulla,Cra 7#691-52
+Mince Meat - Filling,94,2021-05-07,La 14,Cra 0#7d-7
+Yams,16,2021-05-06,Éxito,Calle 25#173d-7
+Toothpick Frilled,41,2021-05-22,Éxito,Cra 9d#85-82
+"Oranges - Navel, 72",65,2021-05-23,Olímpica,Cra 80b#10d-97
+Mini - Vol Au Vents,53,2021-05-09,Surtimax,Cra 5c#702b-72
+Passion Fruit,83,2021-05-21,Jumbo,Cra 790#3d-23
+Pastrami,2,2021-05-12,Surtimax,Calle 231c#347-2
+Compound - Orange,65,2021-05-08,La 14,Calle 653a#88c-0
+"Turkey - Breast, Smoked",15,2021-05-14,Surtimax,Calle 09#2-6
+Hipnotiq Liquor,47,2021-05-19,Éxito,Calle 09#2-6
+Scallops - Live In Shell,39,2021-05-16,La 14,Calle 423#39-82
+Straw - Regular,72,2021-05-05,Éxito,Cra 7#691-52
+Almonds Ground Blanched,7,2021-05-11,La 14,Calle 13#70-05
+"Lemonade - Black Cherry, 591 Ml",97,2021-05-15,La 14,Calle 13#70-05
+Bagel - Everything,7,2021-05-15,La 14,Cra 1c#8-0
+Squash - Butternut,78,2021-05-12,Carulla,Calle 25#173d-7
+Baking Soda,67,2021-05-20,La 14,Cra 7#691-52
+Cheese - Blue,82,2021-05-08,Carulla,Calle 09#2-6
+Halibut - Fletches,4,2021-05-06,Surtimax,Cra 5d#6-8
+Hummus - Spread,54,2021-05-07,Éxito,Calle 13#70-05
+Foam Tray S2,16,2021-05-16,Jumbo,Calle 13#70-05
+"Potatoes - Yukon Gold, 80 Ct",6,2021-05-16,Jumbo,Cra 5c#702b-72
+Lamb - Rack,47,2021-05-21,Carulla,Cra 80b#10d-97
+Jolt Cola - Red Eye,13,2021-05-23,Carulla,Calle 25#173d-7
+Bagel - Sesame Seed Presliced,60,2021-05-24,Éxito,Calle 653a#88c-0
+"Wine - Red, Mouton Cadet",1,2021-05-12,Carulla,Calle 09#2-6
+Table Cloth 81x81 White,6,2021-05-18,Carulla,Calle 231c#347-2
+Broom And Broom Rack White,44,2021-05-09,La 14,Calle 14#1c-7
+Yoplait - Strawbrasp Peac,82,2021-05-15,Jumbo,Calle 14#1c-7
+Wine - Malbec Trapiche Reserve,78,2021-05-09,Jumbo,Calle 423#39-82
+Chips Potato All Dressed - 43g,33,2021-05-19,Carulla,Cra 52d#93a-72
+Sloe Gin - Mcguinness,91,2021-05-07,Jumbo,Calle 423#39-82
+Sobe - Berry Energy,51,2021-05-24,Éxito,Calle 888#29-8
+"Lobster - Baby, Boiled",75,2021-05-15,Carulla,Calle 25#173d-7
+Soup - Campbells Mac N Cheese,8,2021-05-19,Éxito,Calle 25#173d-7
+Five Alive Citrus,99,2021-05-24,Olímpica,Calle 888#29-8
+Steam Pan - Half Size Deep,75,2021-05-15,Carulla,Cra 1c#8-0
+Soup Campbells,6,2021-05-04,Jumbo,Calle 14#1c-7
+Beef - Striploin Aa,4,2021-05-06,Éxito,Cra 2d#8-9
+Sugar - Individual Portions,21,2021-05-05,La 14,Cra 9d#85-82
+"Split Peas - Yellow, Dry",33,2021-05-11,La 14,Cra 4#451b-5
+Wine - Pinot Noir Mondavi Coastal,51,2021-05-24,Carulla,Calle 653a#88c-0
+Muffin - Mix - Bran And Maple 15l,60,2021-05-13,Jumbo,Cra 0#7d-7
+Peppercorns - Pink,65,2021-05-07,Éxito,Cra 52d#93a-72
+Trout - Smoked,15,2021-05-05,Surtimax,Cra 7#037-4
+"Juice - Tomato, 48 Oz",50,2021-05-19,Carulla,Calle 231c#347-2
+Beer - Labatt Blue,33,2021-05-09,Éxito,Cra 5c#702b-72
+Broom - Angled,12,2021-05-07,Jumbo,Cra 790#3d-23
+Pernod,81,2021-05-23,Olímpica,Cra 5c#702b-72
+Island Oasis - Mango Daiquiri,26,2021-05-14,Jumbo,Cra 790#3d-23
+Sauce - Roasted Red Pepper,59,2021-05-22,Éxito,Calle 25#173d-7
+"Pasta - Linguini, Dry",88,2021-05-04,Carulla,Cra 52d#93a-72
+Wine - Saint Emilion Calvet,51,2021-05-08,Éxito,Calle 423#39-82
+Spinach - Spinach Leaf,14,2021-05-13,La 14,Calle 14#1c-7
+Liners - Baking Cups,4,2021-05-09,La 14,Cra 790#3d-23
+Table Cloth 144x90 White,47,2021-05-24,La 14,Cra 0#7d-7
+"Lemonade - Black Cherry, 591 Ml",94,2021-05-15,Éxito,Cra 7#691-52
+Crackers - Trio,27,2021-05-06,La 14,Cra 7#691-52
+Wine - Pinot Noir Pond Haddock,17,2021-05-19,Éxito,Cra 2d#8-9
+Beef - Inside Round,94,2021-05-09,Jumbo,Cra 7#691-52
+Island Oasis - Pina Colada,48,2021-05-23,Surtimax,Calle 423#39-82
+Bread - Olive,21,2021-05-05,Jumbo,Calle 13#70-05
+"Bread - Roll, Canadian Dinner",95,2021-05-08,Olímpica,Calle 14#1c-7
+Island Oasis - Lemonade,21,2021-05-04,Surtimax,Cra 0#7d-7
+Pepper - Orange,15,2021-05-24,Carulla,Cra 9d#85-82
+Olives - Morracan Dired,25,2021-05-22,Jumbo,Cra 5c#702b-72
+Banana - Leaves,44,2021-05-24,Olímpica,Cra 80b#10d-97
+Pears - Fiorelle,32,2021-05-19,La 14,Cra 790#3d-23
+Beer - Paulaner Hefeweisse,82,2021-05-06,La 14,Calle 25#173d-7
+Bar - Sweet And Salty Chocolate,85,2021-05-11,Olímpica,Calle 25#173d-7
+Tart - Raisin And Pecan,77,2021-05-14,La 14,Calle 231c#347-2
+Bagel - 12 Grain Preslice,48,2021-05-21,Carulla,Cra 2d#8-9
+Oil - Cooking Spray,89,2021-05-08,Surtimax,Cra 80b#10d-97
+Food Colouring - Pink,12,2021-05-06,Olímpica,Cra 5c#702b-72
+Bandage - Flexible Neon,33,2021-05-08,Surtimax,Calle 13#70-05
+Oven Mitts 17 Inch,98,2021-05-05,Surtimax,Cra 1c#8-0
+Turkey - Ground. Lean,53,2021-05-09,Jumbo,Cra 4#451b-5
+Butter Sweet,34,2021-05-08,Jumbo,Cra 52d#93a-72
+Lobster - Live,44,2021-05-11,La 14,Cra 0#7d-7
+Pastry - French Mini Assorted,100,2021-05-10,La 14,Cra 1c#8-0
+Sambuca Cream,76,2021-05-18,Carulla,Calle 25#173d-7
+Mcgillicuddy Vanilla Schnap,92,2021-05-20,Olímpica,Cra 790#3d-23
+Bread - White Epi Baguette,91,2021-05-24,Éxito,Cra 7#691-52
+Pork - Bacon Cooked Slcd,82,2021-05-04,Jumbo,Cra 790#3d-23
+Grouper - Fresh,77,2021-05-06,Carulla,Calle 14#1c-7
+Clam - Cherrystone,25,2021-05-19,Éxito,Cra 4#451b-5
+Mushrooms - Honey,27,2021-05-14,La 14,Calle 423#39-82
+Steam Pan - Half Size Deep,82,2021-05-15,Carulla,Cra 80b#10d-97
+"Cheese - Mozzarella, Buffalo",56,2021-05-18,Jumbo,Cra 9d#85-82
+Remy Red Berry Infusion,72,2021-05-18,Éxito,Calle 423#39-82
+Napkin White - Starched,70,2021-05-19,Carulla,Calle 231c#347-2
+Sauce - Hp,94,2021-05-13,Olímpica,Cra 2d#8-9
+Bread - Kimel Stick Poly,40,2021-05-06,Éxito,Cra 80b#10d-97
+Puree - Pear,43,2021-05-06,Olímpica,Calle 09#2-6
+"Beef - Cooked, Corned",52,2021-05-20,Éxito,Cra 0#7d-7
+"Lid - Translucent, 3.5 And 6 Oz",15,2021-05-14,Surtimax,Cra 5d#6-8
+Calaloo,31,2021-05-19,Surtimax,Cra 5c#702b-72
+Wine - Prosecco Valdobiaddene,32,2021-05-15,Carulla,Cra 80b#10d-97
+Soup - Cream Of Potato / Leek,65,2021-05-11,Olímpica,Calle 423#39-82
+Olives - Kalamata,73,2021-05-15,Carulla,Cra 9d#85-82
+Lettuce - Boston Bib - Organic,85,2021-05-19,Carulla,Calle 25#173d-7
+Coriander - Seed,66,2021-05-18,La 14,Calle 09#2-6
+Coffee - Frthy Coffee Crisp,6,2021-05-07,La 14,Cra 5d#6-8
+Butter - Unsalted,33,2021-05-04,Olímpica,Calle 25#173d-7
+Eggroll,51,2021-05-19,Jumbo,Calle 09#2-6
+Beef - Shank,6,2021-05-13,Surtimax,Calle 09#2-6
+Shrimp - 31/40,38,2021-05-20,Jumbo,Calle 888#29-8
+"Mushroom - Enoki, Fresh",23,2021-05-22,Jumbo,Cra 7#691-52
+Sea Bass - Fillets,76,2021-05-13,Éxito,Calle 14#1c-7
+Sausage - Blood Pudding,67,2021-05-23,Surtimax,Calle 231c#347-2
+Beans - Butter Lrg Lima,94,2021-05-09,La 14,Cra 52d#93a-72
+Snapple Lemon Tea,72,2021-05-13,Éxito,Calle 25#173d-7
+Muffin Mix - Raisin Bran,15,2021-05-21,Olímpica,Calle 653a#88c-0
+"Pasta - Rotini, Dry",58,2021-05-15,La 14,Calle 09#2-6
+Nestea - Iced Tea,33,2021-05-09,Surtimax,Cra 9d#85-82
+Oregano - Fresh,10,2021-05-09,La 14,Calle 888#29-8
+Longos - Grilled Veg Sandwiches,76,2021-05-05,Carulla,Calle 14#1c-7
+Soup - Campbells Bean Medley,25,2021-05-13,La 14,Cra 7#037-4
+Arrowroot,37,2021-05-07,Éxito,Cra 1c#8-0
+"Orange - Canned, Mandarin",37,2021-05-24,Surtimax,Calle 653a#88c-0
+Bread - French Baquette,24,2021-05-17,Éxito,Calle 14#1c-7
+"Nut - Walnut, Pieces",9,2021-05-21,Jumbo,Calle 653a#88c-0
+"Yogurt - Strawberry, 175 Gr",33,2021-05-23,Jumbo,Calle 13#70-05
+"Tart Shells - Sweet, 2",23,2021-05-06,Surtimax,Cra 5c#702b-72
+Rye Special Old,40,2021-05-20,Surtimax,Cra 1c#8-0
+Ice Cream Bar - Oreo Sandwich,76,2021-05-10,Carulla,Calle 231c#347-2
+Cafe Royale,70,2021-05-05,Surtimax,Cra 52d#93a-72
+Ham - Procutinni,50,2021-05-09,Éxito,Cra 7#691-52
+Aromat Spice / Seasoning,18,2021-05-14,Éxito,Cra 1c#8-0
+"Turkey - Breast, Boneless Sk On",15,2021-05-17,Éxito,Calle 09#2-6
+Ezy Change Mophandle,60,2021-05-24,Jumbo,Cra 2d#8-9
+Ecolab Digiclean Mild Fm,80,2021-05-24,Olímpica,Calle 13#70-05
+"Pork - Tenderloin, Frozen",42,2021-05-20,Jumbo,Cra 7#691-52
+Pepperoni Slices,37,2021-05-17,Éxito,Calle 09#2-6
+"Cheese - Cheddar, Old White",46,2021-05-15,Jumbo,Calle 653a#88c-0
+Bread - Bistro White,7,2021-05-15,Surtimax,Calle 13#70-05
+Tofu - Soft,83,2021-05-17,Olímpica,Cra 790#3d-23
+Raisin - Dark,83,2021-05-07,Carulla,Calle 09#2-6
+"Wine - Red, Harrow Estates, Cab",21,2021-05-14,Éxito,Calle 14#1c-7
+Wine - Sawmill Creek Autumn,62,2021-05-22,Éxito,Calle 14#1c-7
+Containter - 3oz Microwave Rect.,21,2021-05-05,Jumbo,Cra 790#3d-23
+"Yogurt - Peach, 175 Gr",25,2021-05-12,Olímpica,Cra 5d#6-8
+Wine - Niagara Peninsula Vqa,85,2021-05-19,Surtimax,Cra 5c#702b-72
+"Wine - Red, Black Opal Shiraz",95,2021-05-04,Jumbo,Calle 25#173d-7
+Capicola - Hot,60,2021-05-20,La 14,Calle 231c#347-2
+Swiss Chard,87,2021-05-16,La 14,Calle 653a#88c-0
+Pie Shell - 5,30,2021-05-14,Surtimax,Cra 790#3d-23
+Lobster - Canned Premium,14,2021-05-19,Carulla,Calle 09#2-6
+Cup Translucent 9 Oz,50,2021-05-04,Éxito,Calle 423#39-82
+Straws - Cocktale,4,2021-05-14,La 14,Cra 2d#8-9
+Ice Cream - Strawberry,35,2021-05-10,Carulla,Calle 13#70-05
+Soup Campbells,18,2021-05-20,La 14,Calle 25#173d-7
+Pepper - Red Thai,76,2021-05-11,La 14,Cra 80b#10d-97
+Extract - Raspberry,97,2021-05-09,La 14,Cra 80b#10d-97
+Soup - Campbells Asian Noodle,46,2021-05-17,Éxito,Cra 7#691-52
+"Pork - Chop, Frenched",27,2021-05-18,Surtimax,Calle 25#173d-7
+Muffins - Assorted,68,2021-05-19,Surtimax,Calle 423#39-82
+Pie Filling - Cherry,77,2021-05-15,Surtimax,Cra 9d#85-82
+Lemonade - Pineapple Passion,56,2021-05-15,Carulla,Calle 423#39-82
+Veal - Osso Bucco,80,2021-05-23,La 14,Calle 09#2-6
+Squid Ink,93,2021-05-10,La 14,Cra 7#691-52
+Juice - Ocean Spray Kiwi,26,2021-05-06,Surtimax,Calle 09#2-6
+"Chicken - Thigh, Bone In",56,2021-05-10,Olímpica,Cra 1c#8-0
+Sprouts - Peppercress,26,2021-05-04,Éxito,Cra 80b#10d-97
+Sprouts - Corn,47,2021-05-06,Éxito,Calle 653a#88c-0
+Cheese - Brie Roitelet,81,2021-05-12,Carulla,Cra 5d#6-8
+Banana,69,2021-05-13,Éxito,Cra 5c#702b-72
+Wine - Lou Black Shiraz,93,2021-05-07,Jumbo,Cra 5d#6-8
+Cakes Assorted,72,2021-05-23,Olímpica,Cra 4#451b-5
+"Sauce - Gravy, Au Jus, Mix",16,2021-05-05,Jumbo,Cra 7#037-4
+Butter Ripple - Phillips,34,2021-05-06,Carulla,Cra 80b#10d-97
+Cheese - Mascarpone,67,2021-05-12,Surtimax,Calle 423#39-82
+Ice Cream - Super Sandwich,61,2021-05-21,Olímpica,Cra 52d#93a-72
+Frangelico,73,2021-05-13,Surtimax,Cra 7#691-52
+Celery Root,98,2021-05-15,La 14,Cra 80b#10d-97
+"Salmon - Atlantic, Fresh, Whole",62,2021-05-18,Éxito,Cra 790#3d-23
+Crab - Soft Shell,8,2021-05-21,Surtimax,Calle 231c#347-2
+"Pasta - Bauletti, Chicken White",26,2021-05-13,La 14,Cra 4#451b-5
+Jameson - Irish Whiskey,70,2021-05-16,Olímpica,Cra 7#037-4
+Turkey Tenderloin Frozen,55,2021-05-11,Olímpica,Calle 653a#88c-0
+"Pork - Ham, Virginia",28,2021-05-10,Carulla,Calle 13#70-05
+Red Pepper Paste,46,2021-05-23,Carulla,Cra 0#7d-7
+Butter Ripple - Phillips,44,2021-05-13,Jumbo,Cra 790#3d-23
+Sansho Powder,13,2021-05-04,Carulla,Calle 25#173d-7
+Wine - Balbach Riverside,5,2021-05-14,Éxito,Cra 4#451b-5
+Pastry - Cherry Danish - Mini,69,2021-05-24,Surtimax,Cra 7#691-52
+The Pop Shoppe - Lime Rickey,7,2021-05-16,Surtimax,Cra 9d#85-82
+Thermometer Digital,67,2021-05-15,Surtimax,Calle 231c#347-2
+"Crab - Claws, Snow 16 - 24",25,2021-05-10,Jumbo,Calle 423#39-82
+Spice - Chili Powder Mexican,23,2021-05-21,Jumbo,Cra 0#7d-7
+Chick Peas - Canned,62,2021-05-05,Surtimax,Cra 4#451b-5
+Mix - Cocktail Ice Cream,2,2021-05-24,Carulla,Cra 2d#8-9
+"Iced Tea - Lemon, 460 Ml",14,2021-05-24,Olímpica,Cra 1c#8-0
+Bandage - Finger Cots,24,2021-05-06,Jumbo,Cra 52d#93a-72
+Pastry - Lemon Danish - Mini,99,2021-05-13,Jumbo,Calle 25#173d-7
+Strawberries - California,87,2021-05-21,Carulla,Cra 52d#93a-72
+Oil - Peanut,60,2021-05-21,Éxito,Calle 423#39-82
+Potatoes - Idaho 80 Count,12,2021-05-23,Carulla,Calle 13#70-05
+Coffee - 10oz Cup 92961,51,2021-05-15,Surtimax,Cra 7#691-52
+Tomatoes - Yellow Hot House,31,2021-05-10,Éxito,Cra 1c#8-0
+Tomato - Plum With Basil,91,2021-05-14,Jumbo,Cra 2d#8-9
+Butter - Salted,35,2021-05-06,La 14,Cra 2d#8-9
+Veal - Kidney,85,2021-05-05,Jumbo,Cra 1c#8-0
+Ham - Virginia,98,2021-05-13,Jumbo,Cra 4#451b-5
+Artichoke - Fresh,82,2021-05-05,Éxito,Calle 231c#347-2
+Soup - Campbells Chili,63,2021-05-09,Jumbo,Calle 231c#347-2
+Sponge Cake Mix - Vanilla,49,2021-05-23,Carulla,Cra 52d#93a-72
+"Shrimp - Baby, Cold Water",45,2021-05-23,La 14,Calle 888#29-8
+"Brocolinni - Gaylan, Chinese",91,2021-05-11,Éxito,Cra 5c#702b-72
+"Salmon - Smoked, Sliced",60,2021-05-19,Olímpica,Cra 2d#8-9
+Bacardi Raspberry,64,2021-05-19,La 14,Calle 13#70-05
+Smirnoff Green Apple Twist,4,2021-05-15,Olímpica,Cra 4#451b-5
+Beef - Striploin Aa,51,2021-05-06,Éxito,Calle 653a#88c-0
+Sugar - Individual Portions,44,2021-05-11,Surtimax,Calle 13#70-05
+Grapes - Green,14,2021-05-22,Éxito,Cra 0#7d-7
+Jack Daniels,63,2021-05-16,Carulla,Cra 2d#8-9
+Water - Aquafina Vitamin,19,2021-05-20,Surtimax,Calle 653a#88c-0
+"Fish - Halibut, Cold Smoked",50,2021-05-05,Jumbo,Calle 423#39-82
+Wine - Shiraz South Eastern,26,2021-05-15,Surtimax,Cra 1c#8-0
+External Supplier,45,2021-05-07,Éxito,Cra 80b#10d-97
+Pie Shell - 5,61,2021-05-16,Carulla,Calle 25#173d-7
+Banana,68,2021-05-09,Jumbo,Cra 7#691-52
+The Pop Shoppe - Cream Soda,66,2021-05-19,Olímpica,Cra 1c#8-0
+Lobster - Cooked,30,2021-05-06,Surtimax,Cra 2d#8-9
+Wine - Vidal Icewine Magnotta,72,2021-05-07,Olímpica,Cra 52d#93a-72
+"Beef - Kindney, Whole",71,2021-05-05,Surtimax,Cra 5d#6-8
+Dr. Pepper - 355ml,23,2021-05-17,Jumbo,Cra 790#3d-23
+Mushroom Morel Fresh,48,2021-05-16,Éxito,Cra 2d#8-9
+"Pasta - Penne Primavera, Single",64,2021-05-19,La 14,Calle 653a#88c-0
+Campari,90,2021-05-22,Carulla,Calle 25#173d-7
+"Tart Shells - Savory, 4",48,2021-05-06,Éxito,Cra 5c#702b-72
+Beer - Corona,78,2021-05-10,Surtimax,Calle 13#70-05
+"Vermouth - White, Cinzano",61,2021-05-09,Surtimax,Cra 7#037-4
+Pear - Halves,71,2021-05-15,Carulla,Cra 9d#85-82
+Ice Cream Bar - Rolo Cone,96,2021-05-08,Jumbo,Cra 790#3d-23
+Tomatoes - Yellow Hot House,58,2021-05-12,Surtimax,Cra 1c#8-0
+"Cheese - Cheddar, Medium",92,2021-05-06,Jumbo,Cra 5c#702b-72
+"Ice - Clear, 300 Lb For Carving",50,2021-05-14,Jumbo,Cra 0#7d-7
+Squash - Guords,66,2021-05-19,Jumbo,Calle 653a#88c-0
+Glass Clear 8 Oz,50,2021-05-09,Carulla,Cra 0#7d-7
+Wine - Casillero Del Diablo,28,2021-05-10,La 14,Calle 231c#347-2
+Tea - Lemon Green Tea,2,2021-05-18,Carulla,Cra 80b#10d-97
+Rabbit - Whole,33,2021-05-19,Jumbo,Calle 423#39-82
+Kirsch - Schloss,69,2021-05-05,Carulla,Calle 13#70-05
+Parsley - Fresh,7,2021-05-14,La 14,Cra 7#691-52
+"Lobster - Tail, 3 - 4 Oz",57,2021-05-13,Jumbo,Cra 9d#85-82
+Coffee - Egg Nog Capuccino,52,2021-05-08,La 14,Calle 423#39-82
+Cumin - Whole,45,2021-05-14,Jumbo,Cra 0#7d-7
+Seaweed Green Sheets,100,2021-05-10,Carulla,Calle 13#70-05
+"Veal - Inside Round / Top, Lean",69,2021-05-15,Carulla,Cra 2d#8-9
+"Doilies - 12, Paper",51,2021-05-18,La 14,Calle 13#70-05
+"Asparagus - White, Canned",61,2021-05-23,La 14,Calle 653a#88c-0
+Ecolab Digiclean Mild Fm,89,2021-05-15,Olímpica,Cra 4#451b-5
+Chinese Foods - Plain Fried Rice,66,2021-05-18,Carulla,Cra 5d#6-8
+Eggplant Italian,25,2021-05-06,Surtimax,Calle 14#1c-7
+Lemonade - Pineapple Passion,70,2021-05-08,Surtimax,Cra 2d#8-9
+Energy Drink - Redbull 355ml,67,2021-05-05,Surtimax,Calle 231c#347-2
+"Mushroom - Oyster, Fresh",67,2021-05-15,Olímpica,Calle 653a#88c-0
+"Mop Head - Cotton, 24 Oz",99,2021-05-16,Surtimax,Cra 2d#8-9
+Bagel - Whole White Sesame,81,2021-05-12,La 14,Cra 0#7d-7
+Steampan Lid,80,2021-05-19,La 14,Cra 7#037-4
+Liqueur - Melon,75,2021-05-21,Carulla,Calle 653a#88c-0
+Pear - Halves,35,2021-05-20,La 14,Calle 09#2-6
+Soup - Campbells Mac N Cheese,94,2021-05-19,Surtimax,Cra 5d#6-8
+Wine - Fat Bastard Merlot,55,2021-05-23,La 14,Calle 14#1c-7
+"Lobster - Tail, 3 - 4 Oz",85,2021-05-04,Olímpica,Calle 14#1c-7
+Veal - Nuckle,85,2021-05-20,Carulla,Calle 888#29-8
+Foam Tray S2,10,2021-05-11,Éxito,Calle 231c#347-2
+"Wine - White, Chardonnay",61,2021-05-08,Surtimax,Calle 888#29-8
+"Seedlings - Buckwheat, Organic",52,2021-05-22,Surtimax,Cra 7#037-4
+Olives - Stuffed,69,2021-05-14,Jumbo,Calle 423#39-82
+Pork - Ground,34,2021-05-07,Olímpica,Calle 25#173d-7
+Wine - Lou Black Shiraz,31,2021-05-09,Jumbo,Cra 1c#8-0
+Monkfish - Fresh,24,2021-05-18,Éxito,Cra 0#7d-7
+Sprouts Dikon,15,2021-05-20,Jumbo,Cra 790#3d-23
+"Oil - Truffle, Black",100,2021-05-20,Surtimax,Cra 4#451b-5
+Cornflakes,49,2021-05-04,Olímpica,Calle 653a#88c-0
+Wine - Fat Bastard Merlot,33,2021-05-05,Surtimax,Cra 7#037-4
+Beer - Paulaner Hefeweisse,12,2021-05-22,La 14,Cra 7#691-52
+Curry Paste - Green Masala,85,2021-05-20,Olímpica,Calle 13#70-05
+Island Oasis - Pina Colada,92,2021-05-13,Carulla,Cra 7#037-4
+"Cheese - Brie, Triple Creme",9,2021-05-12,La 14,Cra 4#451b-5
+Chef Hat 25cm,25,2021-05-08,La 14,Cra 5d#6-8
+Beer - Pilsner Urquell,68,2021-05-11,Jumbo,Cra 2d#8-9
+Oil - Sesame,27,2021-05-20,Olímpica,Cra 80b#10d-97
+Quiche Assorted,8,2021-05-19,Jumbo,Cra 0#7d-7
+"Artichokes - Knobless, White",90,2021-05-12,Carulla,Cra 52d#93a-72
+Petite Baguette,69,2021-05-16,Surtimax,Calle 25#173d-7
+Pears - Fiorelle,63,2021-05-13,Éxito,Cra 80b#10d-97
+"Bread - Roll, Canadian Dinner",22,2021-05-24,La 14,Calle 888#29-8
+Lady Fingers,62,2021-05-11,Olímpica,Calle 14#1c-7
+Sauce - Rosee,70,2021-05-13,Carulla,Cra 5c#702b-72
+Tomatoes - Grape,26,2021-05-17,Éxito,Cra 5c#702b-72
+"Bread - Pita, Mini",44,2021-05-08,Surtimax,Calle 653a#88c-0
+Chicken - Base,66,2021-05-08,Surtimax,Calle 423#39-82
+Cheese - Ermite Bleu,2,2021-05-09,Jumbo,Cra 0#7d-7
+"Rosemary - Primerba, Paste",46,2021-05-11,Carulla,Cra 5c#702b-72
+"Soda Water - Club Soda, 355 Ml",86,2021-05-09,La 14,Calle 13#70-05
+Filo Dough,9,2021-05-05,Jumbo,Calle 423#39-82
+Mcguinness - Blue Curacao,96,2021-05-24,Éxito,Cra 9d#85-82
+"Pepper - White, Ground",46,2021-05-18,Surtimax,Calle 13#70-05
+Salad Dressing,54,2021-05-22,Carulla,Cra 9d#85-82
+Beef - Bresaola,93,2021-05-21,Olímpica,Calle 09#2-6
+Celery Root,25,2021-05-23,Carulla,Calle 653a#88c-0
+Worcestershire Sauce,83,2021-05-05,Surtimax,Calle 13#70-05
+Yogurt - French Vanilla,47,2021-05-09,Carulla,Cra 5d#6-8
+Duck - Legs,18,2021-05-08,Carulla,Cra 1c#8-0
+Alize Red Passion,49,2021-05-08,La 14,Cra 80b#10d-97
+Wine - Wyndham Estate Bin 777,63,2021-05-10,La 14,Cra 5d#6-8
+Beef Tenderloin Aaa,35,2021-05-11,Jumbo,Cra 7#691-52
+"Iced Tea - Lemon, 340ml",46,2021-05-13,Éxito,Cra 2d#8-9
+"Star Anise, Whole",62,2021-05-22,Surtimax,Cra 790#3d-23
+"Apple - Delicious, Red",44,2021-05-17,Olímpica,Cra 7#691-52
+Coffee Beans - Chocolate,22,2021-05-16,Surtimax,Cra 790#3d-23
+Yams,22,2021-05-19,Carulla,Cra 2d#8-9
+"Squash - Pattypan, Yellow",70,2021-05-13,Éxito,Calle 13#70-05
+Lettuce - Arugula,11,2021-05-16,Carulla,Cra 52d#93a-72
+"Crush - Orange, 355ml",13,2021-05-24,Éxito,Cra 790#3d-23
+White Fish - Filets,61,2021-05-22,Carulla,Calle 13#70-05
+Shrimp - Tiger 21/25,26,2021-05-22,Surtimax,Cra 790#3d-23
+Cake - Mini Cheesecake,48,2021-05-08,Jumbo,Cra 790#3d-23
+"Ranchero - Primerba, Paste",24,2021-05-08,Jumbo,Cra 0#7d-7
+Beef - Ground Lean Fresh,41,2021-05-20,Carulla,Calle 13#70-05
+Fireball Whisky,36,2021-05-12,Surtimax,Cra 1c#8-0
+Steampan - Lid For Half Size,24,2021-05-22,Olímpica,Calle 25#173d-7
+"Wine - Red, Metus Rose",1,2021-05-23,Jumbo,Calle 14#1c-7
+Momiji Oroshi Chili Sauce,2,2021-05-17,Olímpica,Cra 7#691-52
+Wine - Chablis 2003 Champs,62,2021-05-22,Carulla,Calle 25#173d-7
+"Tray - Foam, Square 4 - S",16,2021-05-04,Jumbo,Cra 5d#6-8
+"Cheese - Manchego, Spanish",96,2021-05-21,Olímpica,Cra 4#451b-5
+Soup - Boston Clam Chowder,89,2021-05-04,La 14,Calle 09#2-6
+Rice Paper,26,2021-05-06,La 14,Calle 653a#88c-0
+"Capon - Breast, Double, Wing On",33,2021-05-23,Jumbo,Cra 0#7d-7
+Cheese - Taleggio D.o.p.,39,2021-05-15,La 14,Cra 7#691-52
+Cardamon Seed / Pod,62,2021-05-24,Surtimax,Cra 0#7d-7
+Wine - Cousino Macul Antiguas,95,2021-05-04,Jumbo,Cra 52d#93a-72
+Wine - Cabernet Sauvignon,23,2021-05-13,Jumbo,Calle 888#29-8
+Foie Gras,68,2021-05-07,Olímpica,Calle 653a#88c-0
+Soup - Cream Of Broccoli,24,2021-05-04,Éxito,Cra 2d#8-9
+"Nut - Almond, Blanched, Whole",91,2021-05-17,Jumbo,Cra 7#037-4
+Soup - Base Broth Chix,9,2021-05-17,Surtimax,Calle 423#39-82
+Potatoes - Peeled,36,2021-05-08,Jumbo,Cra 0#7d-7
+Broccoli - Fresh,89,2021-05-17,Surtimax,Cra 4#451b-5
+Parsley - Dried,17,2021-05-06,Carulla,Cra 9d#85-82
+Cheese - Gouda,39,2021-05-09,Carulla,Cra 7#037-4
+Truffle Cups Green,2,2021-05-10,Carulla,Cra 52d#93a-72
+Pop Shoppe Cream Soda,93,2021-05-15,La 14,Cra 0#7d-7
+"Wine - White, Chardonnay",39,2021-05-08,Surtimax,Cra 52d#93a-72
+"Mop Head - Cotton, 24 Oz",66,2021-05-17,Olímpica,Cra 0#7d-7
+Pork Ham Prager,84,2021-05-12,Surtimax,Calle 14#1c-7
+Lady Fingers,59,2021-05-15,Éxito,Calle 231c#347-2
+Schnappes Peppermint - Walker,43,2021-05-24,La 14,Calle 231c#347-2
+Sauce - Balsamic Viniagrette,26,2021-05-22,Surtimax,Cra 5c#702b-72
+Soup - Campbells Chicken,62,2021-05-18,Olímpica,Calle 888#29-8
+Wine - Gato Negro Cabernet,96,2021-05-21,Carulla,Calle 231c#347-2
+"Chicken - Leg, Boneless",27,2021-05-22,Éxito,Calle 09#2-6
+"Marsala - Sperone, Fine, D.o.c.",87,2021-05-11,Olímpica,Cra 790#3d-23
+Pepper - Green,95,2021-05-12,Éxito,Calle 423#39-82
+Lamb Tenderloin Nz Fr,40,2021-05-06,Jumbo,Calle 25#173d-7
+Bagel - Ched Chs Presliced,39,2021-05-21,Olímpica,Calle 25#173d-7
+Peppercorns - Pink,3,2021-05-21,Carulla,Calle 09#2-6
+Breakfast Quesadillas,50,2021-05-07,Olímpica,Cra 790#3d-23
+Bread Foccacia Whole,58,2021-05-24,Jumbo,Cra 5d#6-8
+Samosa - Veg,79,2021-05-15,La 14,Cra 5d#6-8
+Veal - Loin,29,2021-05-06,Carulla,Cra 80b#10d-97
+The Pop Shoppe - Cream Soda,78,2021-05-11,Olímpica,Cra 7#691-52
+Pasta - Fusili Tri - Coloured,59,2021-05-13,La 14,Cra 2d#8-9
+Red Currants,75,2021-05-12,Olímpica,Cra 80b#10d-97
+Pork Salted Bellies,74,2021-05-05,La 14,Cra 7#037-4
+Lamb Rack - Ontario,20,2021-05-16,Carulla,Cra 0#7d-7
+Bread - Focaccia Quarter,11,2021-05-09,La 14,Cra 7#037-4
+"Soup - Knorr, Country Bean",98,2021-05-05,Carulla,Cra 4#451b-5
+Gloves - Goldtouch Disposable,1,2021-05-11,La 14,Cra 0#7d-7
+Mustard Prepared,33,2021-05-21,Jumbo,Cra 5c#702b-72
+Gelatine Leaves - Envelopes,80,2021-05-04,Surtimax,Calle 653a#88c-0
+Scallops - Live In Shell,56,2021-05-10,Carulla,Cra 2d#8-9
+"Cheese - Mozzarella, Buffalo",29,2021-05-18,La 14,Cra 80b#10d-97
+Silicone Paper 16.5x24,3,2021-05-20,Surtimax,Calle 653a#88c-0
+Cranberries - Frozen,83,2021-05-09,Éxito,Calle 888#29-8
+Rice - Basmati,6,2021-05-14,Jumbo,Cra 7#037-4
+Beef - Tender Tips,78,2021-05-17,Carulla,Calle 25#173d-7
+"Lamb - Whole, Frozen",56,2021-05-07,Surtimax,Calle 888#29-8
+Wine - Peller Estates Late,33,2021-05-23,Carulla,Cra 1c#8-0
+Milk - Chocolate 250 Ml,4,2021-05-24,Surtimax,Calle 25#173d-7
+Beer - Original Organic Lager,61,2021-05-20,Olímpica,Calle 14#1c-7
+"Potatoes - Yukon Gold, 80 Ct",28,2021-05-04,La 14,Calle 13#70-05
+Soup V8 Roasted Red Pepper,13,2021-05-05,Éxito,Calle 888#29-8
+Taro Leaves,73,2021-05-11,Surtimax,Cra 0#7d-7
+Daikon Radish,55,2021-05-16,La 14,Calle 13#70-05
+Curry Powder,77,2021-05-06,Éxito,Cra 9d#85-82
+"Capon - Breast, Wing On",34,2021-05-08,Éxito,Calle 09#2-6
+Duck - Legs,3,2021-05-06,Jumbo,Calle 25#173d-7
+Icecream - Dstk Super Cone,38,2021-05-10,Olímpica,Cra 4#451b-5
+Pork - Inside,15,2021-05-19,Surtimax,Cra 790#3d-23
+Cardamon Seed / Pod,22,2021-05-11,La 14,Calle 13#70-05
+Baking Powder,23,2021-05-21,La 14,Cra 4#451b-5
+Mousse - Mango,39,2021-05-11,Éxito,Calle 09#2-6
+"Chicken - Leg, Boneless",64,2021-05-15,Surtimax,Calle 653a#88c-0
+Wild Boar - Tenderloin,13,2021-05-11,Surtimax,Cra 4#451b-5
+Bols Melon Liqueur,8,2021-05-24,Olímpica,Cra 5c#702b-72
+Wine - Masi Valpolocell,33,2021-05-19,Jumbo,Calle 888#29-8
+Cheese - Wine,26,2021-05-11,Jumbo,Calle 14#1c-7
+Muffin Chocolate Individual Wrap,53,2021-05-18,Jumbo,Cra 5c#702b-72
+Muffin Hinge - 211n,30,2021-05-13,La 14,Cra 2d#8-9
+Tuna - Fresh,87,2021-05-06,Surtimax,Cra 0#7d-7
+Broom - Angled,81,2021-05-12,Carulla,Calle 13#70-05
+"Leeks - Baby, White",45,2021-05-08,La 14,Calle 423#39-82
+Squid Ink,38,2021-05-09,La 14,Calle 09#2-6
+Duck - Whole,18,2021-05-23,Carulla,Calle 423#39-82
+Cherries - Fresh,51,2021-05-05,Olímpica,Cra 1c#8-0
+Vinegar - Tarragon,71,2021-05-24,Carulla,Calle 09#2-6
+Ice Cream Bar - Rolo Cone,27,2021-05-15,Jumbo,Cra 52d#93a-72
+Cinnamon - Stick,74,2021-05-24,Carulla,Calle 09#2-6
+Mushroom - Chanterelle Frozen,71,2021-05-17,Éxito,Cra 0#7d-7
+Liquid Aminios Acid - Braggs,46,2021-05-18,Olímpica,Cra 1c#8-0
+Cotton Wet Mop 16 Oz,29,2021-05-18,Éxito,Cra 7#691-52
+External Supplier,22,2021-05-19,Jumbo,Calle 13#70-05
+"Fish - Atlantic Salmon, Cold",14,2021-05-14,La 14,Calle 888#29-8
+Coffee - Espresso,94,2021-05-17,Olímpica,Cra 7#037-4
+"Yogurt - Raspberry, 175 Gr",23,2021-05-15,Carulla,Cra 7#037-4
+Hand Towel,8,2021-05-07,La 14,Calle 13#70-05
+"Quail - Eggs, Fresh",59,2021-05-16,Carulla,Cra 7#691-52
+Loquat,42,2021-05-18,Jumbo,Cra 80b#10d-97
+Cheese - Fontina,81,2021-05-07,Éxito,Calle 14#1c-7
+Calypso - Lemonade,80,2021-05-16,Surtimax,Calle 888#29-8
+Oil - Grapeseed Oil,41,2021-05-21,Surtimax,Cra 5d#6-8
+Fondant - Icing,43,2021-05-14,La 14,Cra 9d#85-82
+"Soup - Campbells, Butternut",86,2021-05-17,Carulla,Calle 653a#88c-0
+Asparagus - Mexican,78,2021-05-10,Éxito,Calle 14#1c-7
+"Vermacelli - Sprinkles, Assorted",57,2021-05-06,Jumbo,Calle 231c#347-2
+Squid U5 - Thailand,35,2021-05-13,La 14,Calle 09#2-6
+Bar Special K,92,2021-05-21,Surtimax,Calle 13#70-05
+Bread - Flat Bread,29,2021-05-06,Surtimax,Cra 7#037-4
+Wine - Shiraz Wolf Blass Premium,66,2021-05-11,Olímpica,Cra 52d#93a-72
+Flour - Chickpea,40,2021-05-23,La 14,Calle 231c#347-2
+"Coffee - Colombian, Portioned",2,2021-05-04,La 14,Cra 52d#93a-72
+Pork - Sausage Casing,6,2021-05-22,Carulla,Calle 653a#88c-0
+Container Clear 8 Oz,77,2021-05-06,La 14,Cra 0#7d-7
+Miso Paste White,3,2021-05-04,La 14,Cra 7#691-52
+Table Cloth 54x54 White,49,2021-05-13,Éxito,Calle 423#39-82
+Pears - Bartlett,53,2021-05-10,Carulla,Calle 231c#347-2
+External Supplier,61,2021-05-14,La 14,Cra 1c#8-0
+Cup - Paper 10oz 92959,17,2021-05-15,Carulla,Calle 25#173d-7
+Beer - Fruli,17,2021-05-10,Surtimax,Calle 14#1c-7
+"Wine - Red, Pinot Noir, Chateau",82,2021-05-24,La 14,Calle 231c#347-2
+Appetizer - Mushroom Tart,100,2021-05-21,La 14,Calle 14#1c-7
+"Beef - Cooked, Corned",13,2021-05-13,Surtimax,Calle 14#1c-7
+Shrimp - Black Tiger 26/30,29,2021-05-12,Carulla,Calle 888#29-8
+Lemons,97,2021-05-04,Olímpica,Calle 13#70-05
+Kiwi Gold Zespri,22,2021-05-16,Éxito,Cra 7#691-52
+"Thyme - Lemon, Fresh",53,2021-05-04,Jumbo,Cra 7#037-4
+Sugar - Monocystal / Rock,63,2021-05-19,Jumbo,Calle 231c#347-2
+Curry Paste - Madras,42,2021-05-07,Olímpica,Calle 231c#347-2
+Milkettes - 2%,52,2021-05-05,Jumbo,Cra 2d#8-9
+"Mushroom - Oyster, Fresh",48,2021-05-13,Carulla,Cra 790#3d-23
+Shichimi Togarashi Peppeers,10,2021-05-11,Carulla,Calle 231c#347-2
+Soupfoamcont12oz 112con,69,2021-05-14,Carulla,Calle 09#2-6
+Swordfish Loin Portions,47,2021-05-07,Jumbo,Cra 7#691-52
+Tofu - Soft,50,2021-05-08,Éxito,Calle 653a#88c-0
+Ginger - Pickled,42,2021-05-18,Jumbo,Cra 52d#93a-72
+Devonshire Cream,65,2021-05-21,Carulla,Cra 5d#6-8
+Straw - Regular,12,2021-05-05,Surtimax,Cra 790#3d-23
+"Noodles - Cellophane, Thin",61,2021-05-08,La 14,Cra 790#3d-23
+"Cake Circle, Foil, Scallop",31,2021-05-24,La 14,Cra 2d#8-9
+Bread - Wheat Baguette,82,2021-05-23,La 14,Cra 790#3d-23
+Wine - Champagne Brut Veuve,92,2021-05-10,Éxito,Cra 1c#8-0
+Muffin - Mix - Creme Brule 15l,91,2021-05-20,Éxito,Calle 14#1c-7
+Island Oasis - Strawberry,74,2021-05-06,La 14,Cra 0#7d-7
+Dikon,20,2021-05-16,Surtimax,Calle 25#173d-7
+Wine - Placido Pinot Grigo,94,2021-05-06,Carulla,Cra 5c#702b-72
+Flour - Pastry,40,2021-05-21,Jumbo,Calle 14#1c-7
+Calypso - Pineapple Passion,28,2021-05-24,La 14,Calle 653a#88c-0
+Aspic - Amber,53,2021-05-19,Carulla,Cra 0#7d-7
+Mackerel Whole Fresh,87,2021-05-09,Jumbo,Cra 7#037-4
+Bar Bran Honey Nut,64,2021-05-20,Carulla,Cra 7#691-52
+Dc Hikiage Hira Huba,14,2021-05-19,Olímpica,Cra 5c#702b-72
+"Juice - Pineapple, 341 Ml",41,2021-05-12,Carulla,Calle 653a#88c-0
+"Beef - Rib Roast, Capless",18,2021-05-08,Jumbo,Calle 25#173d-7
+Melon - Honey Dew,62,2021-05-19,Carulla,Cra 2d#8-9
+Sesame Seed,18,2021-05-05,Carulla,Cra 7#691-52
+"Club Soda - Schweppes, 355 Ml",97,2021-05-21,La 14,Cra 52d#93a-72
+Mustard - Pommery,64,2021-05-09,Éxito,Calle 888#29-8
+Clams - Canned,37,2021-05-09,Éxito,Calle 653a#88c-0
+Beer - Moosehead,9,2021-05-18,Surtimax,Cra 5d#6-8
+Pasta - Ravioli,63,2021-05-09,Carulla,Cra 7#037-4
+"Shrimp - 16 - 20 Cooked, Peeled",52,2021-05-17,Olímpica,Cra 5d#6-8
+"Pepper - Black, Whole",3,2021-05-08,Éxito,Cra 0#7d-7
+Bonito Flakes - Toku Katsuo,41,2021-05-19,La 14,Cra 4#451b-5
+Flower - Dish Garden,40,2021-05-20,Carulla,Cra 1c#8-0
+"Wine - White, Pinot Grigio",97,2021-05-04,Jumbo,Calle 09#2-6
+Oregano - Fresh,53,2021-05-14,Éxito,Cra 2d#8-9
+"Quail - Whole, Bone - In",57,2021-05-24,Olímpica,Calle 231c#347-2
+Lettuce - Boston Bib - Organic,44,2021-05-21,Surtimax,Calle 888#29-8
+Tea - Honey Green Tea,35,2021-05-18,Jumbo,Calle 231c#347-2
+Ham - Cooked,83,2021-05-05,La 14,Calle 888#29-8
+Dish Towel,9,2021-05-23,Jumbo,Calle 25#173d-7
+Bread - Triangle White,31,2021-05-18,Olímpica,Cra 1c#8-0
+Longos - Lasagna Beef,39,2021-05-14,Éxito,Calle 25#173d-7
+"Chocolate - Semi Sweet, Calets",26,2021-05-07,Jumbo,Calle 423#39-82
+Cake - Lemon Chiffon,40,2021-05-05,Olímpica,Cra 0#7d-7
+"Juice - Cranberry, 341 Ml",31,2021-05-04,Éxito,Calle 231c#347-2
+Soup - Campbellschix Stew,67,2021-05-11,Olímpica,Calle 653a#88c-0
+Propel Sport Drink,65,2021-05-11,Surtimax,Calle 25#173d-7
+Wine - Merlot Vina Carmen,24,2021-05-08,Olímpica,Calle 888#29-8
+Bread - Flat Bread,50,2021-05-17,Olímpica,Cra 4#451b-5
+Wine - Beringer Founders Estate,52,2021-05-10,Carulla,Cra 7#691-52
+"Cake Circle, Foil, Scallop",16,2021-05-08,Olímpica,Calle 423#39-82
+Beer - Creemore,90,2021-05-18,Jumbo,Cra 7#037-4
+Piping - Bags Quizna,68,2021-05-22,Surtimax,Cra 2d#8-9
+Chinese Foods - Chicken,70,2021-05-18,Surtimax,Cra 0#7d-7
+Bread - Calabrese Baguette,18,2021-05-15,Éxito,Calle 653a#88c-0
+Beer - Camerons Auburn,71,2021-05-16,La 14,Calle 888#29-8
+"Nut - Walnut, Pieces",28,2021-05-18,La 14,Cra 4#451b-5
+Cheese - Colby,53,2021-05-11,La 14,Cra 9d#85-82
+Thyme - Dried,98,2021-05-18,Carulla,Calle 09#2-6
+"Wine - White, Pelee Island",26,2021-05-12,Éxito,Cra 1c#8-0
+Wine - Sicilia Igt Nero Avola,69,2021-05-22,La 14,Cra 790#3d-23
+Wine - Barbera Alba Doc 2001,5,2021-05-14,Carulla,Calle 653a#88c-0
+Latex Rubber Gloves Size 9,29,2021-05-11,La 14,Cra 790#3d-23
+Pasta - Orecchiette,59,2021-05-12,Éxito,Cra 9d#85-82
+"Chocolate - Pistoles, Lactee, Milk",34,2021-05-15,La 14,Cra 790#3d-23
+Wine - Zonnebloem Pinotage,43,2021-05-10,Surtimax,Cra 80b#10d-97
+Coffee - French Vanilla Frothy,44,2021-05-17,La 14,Cra 2d#8-9
+"Bag - Bread, White, Plain",19,2021-05-09,Jumbo,Calle 14#1c-7
+Vinegar - Sherry,73,2021-05-17,Surtimax,Calle 25#173d-7
+Cheese - Asiago,91,2021-05-13,Carulla,Cra 5d#6-8
+Relish,27,2021-05-14,Carulla,Cra 0#7d-7
+Soup - Tomato Mush. Florentine,46,2021-05-23,Carulla,Calle 09#2-6
+Chambord Royal,34,2021-05-22,Carulla,Calle 888#29-8
+Nantuket Peach Orange,12,2021-05-07,Carulla,Cra 4#451b-5
+"Soup - Campbells, Creamy",9,2021-05-06,La 14,Calle 13#70-05
+Chicken Breast Wing On,88,2021-05-15,Jumbo,Cra 1c#8-0
+Soup - Campbells Pasta Fagioli,19,2021-05-22,Carulla,Cra 5d#6-8

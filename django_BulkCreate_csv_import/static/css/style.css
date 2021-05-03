@@ -1,5 +1,5 @@
 body {
-	background-color: #e2dfdf;
+	background-color: #F5F5F5;
 }
 .navbar-pf-vertical {
     background-color: #346888 !important;
@@ -94,16 +94,10 @@ border-top: 1px solid #a3c614;
 		font-size: 15px;
 }
 body {
-    background: url(../images/bg.jpg) !important;
+    background: url(../images/meally.png) !important;
     background-color: #e2dfdf !important;
 }
-.logo-img {
-	border-radius: 0px !important;
-	width: 150px;
-    height: 100px;
-    border: navajowhite;
-    margin: 10px;
-}
+
 .margin10 {
 		margin-top: 10%;
 }

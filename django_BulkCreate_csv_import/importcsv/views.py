@@ -3,13 +3,20 @@ from django.shortcuts import render
 # Create your views here.
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
-from datetime import datetime
 from django.views import View
 from .models import Producto
 import io, csv
 
 
+def get_productos(request):
+    productos = Producto.objects.order_by('fecha_vencimiento')
+    context = {
+        'productos': productos,
+    }
+    return render(request, 'employee/productos.html', context)
+
 class EmployeeUploadView(View):
+
     def get(self, request):
         template_name = 'employee/importemployee.html'
         return render(request, template_name)
