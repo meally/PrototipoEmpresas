@@ -7,11 +7,9 @@
 <body >
   <header>
     {% if user.is_authenticated %}
-     <h1>¡Hola, {{ user.username }}!</h1>
-    <h2>¡Gracias por unirte a Meal.ly y cambiar a Colombia!</h2>
-      <a href="{% url 'logout' %}">logout</a>
+    <p></p>
     {% else %}
-    <h1>¡Bievenido a Meal.ly empresas!</h1>
+    <h1>¡Bienvenido a Meal.ly empresas!</h1>
       <a href="{% url 'login' %}">login</a>
     {% endif %}
   </header>
