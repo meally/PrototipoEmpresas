@@ -120,7 +120,7 @@ position: relative;
                     <div class="card-subtitle">Tamaño máximo: 1GB</div>
                     <div class="file-upload">
     {% csrf_token %}
-    <input type="file" name="productfile" class="file-input" ><br/>
+    <input type="file" name="productfile" class="file-input" id="myVar" value="{{ productfile }}" >
                         <svg class="icon" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
                             <g id="Page-1" fill="none" fill-rule="evenodd">
                                 <g id="135---Upload-File" fill-rule="nonzero">
@@ -176,6 +176,11 @@ position: relative;
                     </div>
                     <div >&nbsp;</div>
                     <div class="boton">
+                        <script>
+                            var myVar = document.getElementById("myVar").value;
+                            console.log(myVar);
+                        </script>
+                        <p id="fileName">Archivo elegido: {{myVar}} </p>
                     <button type="submit" class="btn btn-outline-secondary">Subir</button>
                     </div>
 

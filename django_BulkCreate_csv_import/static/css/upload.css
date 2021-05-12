@@ -10373,6 +10373,10 @@ button.bg-dark:focus {
   color: #DDA15E !important;
 }
 
+.text-success {
+  color: #00993d !important;
+}
+
 .text-primary {
   color: #DDA15E !important;
 }
