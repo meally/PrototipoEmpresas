@@ -8,6 +8,7 @@ class Producto(models.Model):
     fecha_vencimiento = models.DateField(null=False)
     supermercado = models.CharField(max_length=150, null=False)
     direccion = models.TextField(blank=False, null=False)
+    recogido = models.IntegerField(null=False)
 
     def __str__(self):
        return self.nombre

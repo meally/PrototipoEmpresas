@@ -33,6 +33,7 @@ class EmployeeUploadView(View):
                 #FORMATO DE FECHA: '1970-01-01',
                 supermercado=row['supermercado'],
                 direccion=row['direccion'],
+                recogido=row['recogido'],
             )
             for row in list_of_dict
         ]

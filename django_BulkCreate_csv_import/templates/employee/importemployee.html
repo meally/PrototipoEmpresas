@@ -1,7 +1,6 @@
 {% extends 'base.html' %}
 {% block title %}Meal.ly{% endblock %}
 {% block content %}
-{% load static %}
 <style>
     .card {
 	 background-color: #fff;
@@ -69,6 +68,7 @@ position: relative;
 }
 
 </style>
+{% load static %}
   <link rel="stylesheet" type="text/css" href="{% static 'css/upload.css' %}">
  <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">

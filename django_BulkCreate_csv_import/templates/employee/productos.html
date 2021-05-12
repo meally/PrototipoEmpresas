@@ -8,40 +8,144 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #E0E4CF;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #E0E4CF;
 }
 </style>
 
-{% if productos %}
-<a href="/">Regresar</a>
-    <table>
+{% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'css/productos.css' %}">
+ <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+    <div class="container">
+      {% load static %}
+      <a class="navbar-brand js-scroll-trigger" href="/">Meal.ly</a>
+      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#portfolio">¿Cómo funciona?</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'importar_productos' %}" >Subir productos</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'ver_productos' %}">Ver productos subidos</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="{% url 'logout' %}">Logout</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<section class="page-section bg-primary text-white mb-0" id="about">
+    <div class="container">
+        {% if productos %}
+      <!-- About Section Heading -->
+      <h2 class="page-section-heading text-center titulo">Productos subidos recientemente</h2>
+
+      <!-- Icon Divider -->
+      <div class="divider-custom divider-light">
+        <div class="divider-custom-line"></div>
+      </div>
+        <div class="row">&nbsp;</div>
+      <!-- About Section Content -->
+      <div class="row">
+          <table>
         <tr>
-            <th>Nombre</th>
-            <th>Cantidad</th>
-            <th>Fecha Vencimiento</th>
-            <th>Supermercado</th>
-            <th>Direccion</th>
+            <th class="text-center">Nombre</th>
+            <th class="text-center">Cantidad</th>
+            <th class="text-center">Fecha Vencimiento</th>
+            <th class="text-center">Supermercado</th>
+            <th class="text-center">Direccion</th>
+            <th class="text-center">Recogido</th>
         </tr>
         {% for producto in productos %}
         <tr>
-            <td>{{producto.nombre}}</td>
-            <td>{{producto.cantidad}}</td>
-            <td>{{producto.fecha_vencimiento}}</td>
-            <td>{{producto.supermercado}}</td>
-            <td>{{producto.direccion}}</td>
+            <td class="text-center">{{producto.nombre}}</td>
+            <td class="text-center">{{producto.cantidad}}</td>
+            <td class="text-center">{{producto.fecha_vencimiento}}</td>
+            <td class="text-center">{{producto.supermercado}}</td>
+            <td class="text-center">{{producto.direccion}}</td>
+            {% if producto.recogido == 1 %}
+            <td class="text-center">
+                <input class="form-check-input " type="checkbox" value="" checked disabled>
+            </td>
+            {% else %}
+            <td class="text-center">
+                <input class="form-check-input " type="checkbox" value="" disabled>
+            </td>
+            {% endif %}
         </tr>
         {% endfor %}
     </table>
-<a href="/">Regresar</a>
-{% else %}
-    <p>No has subido productos aún</p>
-    <a href="/">Regresar</a>
 
+      </div>
+          <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+          <div class="row">&nbsp;</div>
+
+{% else %}
+    <h2 class="page-section-heading text-center titulo">No has subido productos aún</h2>
+                <div class="row">&nbsp;</div>
+
+    <p>Recuerda ir a <a href="{% url 'importar_productos' %}">subir productos</a> para iniciar.</p>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
+        <div class="row">&nbsp;</div>
 {% endif %}
+    </div>
+  </section>
+
+<!-- Footer -->
+  <footer class="footer text-center">
+    <div class="container">
+      <div class="row">
+
+        <!-- Footer Location -->
+        <div class="col-lg-6 mb-6 mb-lg-0">
+          <h4 class="text-uppercase mb-4">Hecho por:</h4>
+          <p class="lead mb-0">Nico, Jhoan, Mateo y Sofi</p>
+        </div>
+
+
+        <!-- Footer About Text -->
+        <div class="col-lg-6">
+          <h4 class="text-uppercase mb-4">¡Somos Meal.ly!</h4>
+          <p class="lead mb-0">Si quieres conocer más de nosotros, visítanos
+            <a href="https://meally.github.io">aquí</a>.</p>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+  <!-- Copyright Section -->
+  <section class="copyright py-4 text-center text-white">
+    <div class="container">
+      <small>Copyright &copy; Meal.ly 2021</small>
+    </div>
+  </section>
+
 {% endblock %}
