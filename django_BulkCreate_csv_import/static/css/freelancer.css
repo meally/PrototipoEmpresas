@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #DDA15E;
+  color: #606C38;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6916,7 +6916,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #C77832 !important;
+  background-color: #DDA15E !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
